@@ -1449,3 +1449,729 @@ LogConfig: Set CVar [[r.DynamicRes.DynamicFrameTime:1]]
 [2026.03.16-15.16.03:702][ 35]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -793980976
 [2026.03.16-15.16.03:702][ 35]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.799938, Update Interval: 317.093414
 [2026.03.16-15.16.04:458][107]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.03.16-15.16.41:027][502]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.03.16-15.16.43:447][730]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.03.16-15.16.43:579][731]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.03.16-15.16.44:411][825]Cmd: DELETE
+[2026.03.16-15.16.44:411][825]Cmd: ACTOR DELETE
+[2026.03.16-15.16.44:435][825]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.44:481][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.16-15.16.44:483][825]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2026.03.16-15.16.48:691][277]Cmd: DELETE
+[2026.03.16-15.16.48:692][277]Cmd: ACTOR DELETE
+[2026.03.16-15.16.48:694][277]LogEditorActor: Deleted Actor: TextRenderActor
+[2026.03.16-15.16.48:705][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.16-15.16.48:707][277]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.03.16-15.16.49:415][348]Cmd: DELETE
+[2026.03.16-15.16.49:415][348]Cmd: ACTOR DELETE
+[2026.03.16-15.16.49:416][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.49:428][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.16-15.16.49:431][348]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.03.16-15.16.49:946][397]Cmd: DELETE
+[2026.03.16-15.16.49:946][397]Cmd: ACTOR DELETE
+[2026.03.16-15.16.49:948][397]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.49:959][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.16-15.16.49:962][397]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.16-15.16.50:666][469]Cmd: DELETE
+[2026.03.16-15.16.50:667][469]Cmd: ACTOR DELETE
+[2026.03.16-15.16.50:669][469]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.50:680][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.16-15.16.50:683][469]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.16-15.16.52:203][638]Cmd: DELETE
+[2026.03.16-15.16.52:204][638]Cmd: ACTOR DELETE
+[2026.03.16-15.16.52:205][638]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.52:217][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.03.16-15.16.52:220][638]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.16-15.16.52:810][699]Cmd: DELETE
+[2026.03.16-15.16.52:810][699]Cmd: ACTOR DELETE
+[2026.03.16-15.16.52:812][699]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.52:824][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.16-15.16.52:827][699]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.03.16-15.16.53:675][786]Cmd: DELETE
+[2026.03.16-15.16.53:675][786]Cmd: ACTOR DELETE
+[2026.03.16-15.16.53:677][786]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.53:690][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.03.16-15.16.53:693][786]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.03.16-15.16.54:439][861]Cmd: DELETE
+[2026.03.16-15.16.54:439][861]Cmd: ACTOR DELETE
+[2026.03.16-15.16.54:440][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.54:452][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.16-15.16.54:455][861]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.16-15.16.55:407][962]Cmd: DELETE
+[2026.03.16-15.16.55:409][962]Cmd: ACTOR DELETE
+[2026.03.16-15.16.55:410][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.55:420][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.16-15.16.55:423][962]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.03.16-15.16.56:033][ 23]Cmd: DELETE
+[2026.03.16-15.16.56:033][ 23]Cmd: ACTOR DELETE
+[2026.03.16-15.16.56:035][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.56:045][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.16-15.16.56:048][ 23]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.03.16-15.16.56:689][ 89]Cmd: DELETE
+[2026.03.16-15.16.56:690][ 89]Cmd: ACTOR DELETE
+[2026.03.16-15.16.56:691][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.56:704][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.03.16-15.16.56:706][ 89]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.03.16-15.16.57:281][145]Cmd: DELETE
+[2026.03.16-15.16.57:281][145]Cmd: ACTOR DELETE
+[2026.03.16-15.16.57:282][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.57:295][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.16-15.16.57:298][145]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.16-15.16.57:922][208]Cmd: DELETE
+[2026.03.16-15.16.57:922][208]Cmd: ACTOR DELETE
+[2026.03.16-15.16.57:924][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.57:936][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.16-15.16.57:939][208]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.03.16-15.16.58:388][249]Cmd: DELETE
+[2026.03.16-15.16.58:388][249]Cmd: ACTOR DELETE
+[2026.03.16-15.16.58:389][249]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.58:401][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.16-15.16.58:404][249]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.16-15.16.58:976][306]Cmd: DELETE
+[2026.03.16-15.16.58:976][306]Cmd: ACTOR DELETE
+[2026.03.16-15.16.58:978][306]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.58:989][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.16-15.16.58:993][306]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.16-15.16.59:748][385]Cmd: DELETE
+[2026.03.16-15.16.59:748][385]Cmd: ACTOR DELETE
+[2026.03.16-15.16.59:749][385]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.16.59:760][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.16-15.16.59:763][385]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.03.16-15.17.00:718][487]Cmd: DELETE
+[2026.03.16-15.17.00:718][487]Cmd: ACTOR DELETE
+[2026.03.16-15.17.00:719][487]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.17.00:731][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.03.16-15.17.00:735][487]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.16-15.17.01:212][531]Cmd: DELETE
+[2026.03.16-15.17.01:212][531]Cmd: ACTOR DELETE
+[2026.03.16-15.17.01:213][531]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.17.01:225][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.16-15.17.01:228][531]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.03.16-15.17.01:684][573]Cmd: DELETE
+[2026.03.16-15.17.01:684][573]Cmd: ACTOR DELETE
+[2026.03.16-15.17.01:686][573]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.17.01:696][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.16-15.17.01:699][573]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2026.03.16-15.17.02:763][688]Cmd: DELETE
+[2026.03.16-15.17.02:763][688]Cmd: ACTOR DELETE
+[2026.03.16-15.17.02:765][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.17.02:777][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.16-15.17.02:781][688]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.03.16-15.17.03:663][781]Cmd: DELETE
+[2026.03.16-15.17.03:663][781]Cmd: ACTOR DELETE
+[2026.03.16-15.17.03:665][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.17.03:676][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.16-15.17.03:680][781]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.16-15.17.04:205][831]Cmd: DELETE
+[2026.03.16-15.17.04:205][831]Cmd: ACTOR DELETE
+[2026.03.16-15.17.04:207][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.17.04:218][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.16-15.17.04:221][831]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.16-15.17.04:741][883]Cmd: DELETE
+[2026.03.16-15.17.04:741][883]Cmd: ACTOR DELETE
+[2026.03.16-15.17.04:742][883]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.17.04:754][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.16-15.17.04:758][883]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.16-15.17.05:309][939]Cmd: DELETE
+[2026.03.16-15.17.05:309][939]Cmd: ACTOR DELETE
+[2026.03.16-15.17.05:310][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.17.05:322][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.16-15.17.05:325][939]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.16-15.17.05:868][992]Cmd: DELETE
+[2026.03.16-15.17.05:868][992]Cmd: ACTOR DELETE
+[2026.03.16-15.17.05:869][992]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.17.05:881][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.16-15.17.05:884][992]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.16-15.17.06:560][ 62]Cmd: DELETE
+[2026.03.16-15.17.06:560][ 62]Cmd: ACTOR DELETE
+[2026.03.16-15.17.06:562][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.17.06:575][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.16-15.17.06:578][ 62]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.03.16-15.17.08:100][217]Cmd: DELETE
+[2026.03.16-15.17.08:100][217]Cmd: ACTOR DELETE
+[2026.03.16-15.17.08:103][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.17.08:114][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.16-15.17.08:118][217]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.03.16-15.17.10:023][428]Cmd: DELETE
+[2026.03.16-15.17.10:023][428]Cmd: ACTOR DELETE
+[2026.03.16-15.17.10:024][428]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-15.17.10:036][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.16-15.17.10:039][428]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.16-15.17.23:457][ 30]LogStreaming: Display: FlushAsyncLoading(390): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.16-15.17.50:630][ 35]LogDerivedDataCache: C:/Users/ricok/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.16-15.18.01:783][264]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.03.16-15.18.01:789][264]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.03.16-15.18.01:791][264]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.03.16-15.18.01:793][264]LogDeviceProfileManager: Going up to parent DeviceProfile [AppleTV]
+[2026.03.16-15.18.01:793][264]LogDeviceProfileManager: Going up to parent DeviceProfile [IOS]
+[2026.03.16-15.18.01:793][264]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.03.16-15.18.01:794][264]LogDeviceProfileManager: Display: Deviceprofile None not found.
+[2026.03.16-15.18.04:495][264]LogAutomationController: Ignoring very large delta of 2.87 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.03.16-15.18.04:604][268]LogPSOHitching: Encountered 50 PSO creation hitches so far (27 graphics, 23 compute). 0 of them were precached.
+[2026.03.16-15.18.21:895][ 63]Cmd: TRANSACTION UNDO
+[2026.03.16-15.18.21:895][ 63]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.03.16-15.18.34:194][182]Cmd: TRANSACTION UNDO
+[2026.03.16-15.18.34:194][182]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.03.16-15.18.42:197][861]Cmd: TRANSACTION UNDO
+[2026.03.16-15.18.42:197][861]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.03.16-15.18.42:618][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:618][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:618][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:618][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:618][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:618][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:620][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:624][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:624][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:624][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:624][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:624][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:624][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:624][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:626][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:626][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:627][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:627][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:627][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:627][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:627][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:629][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:629][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:629][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:629][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:629][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:629][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:629][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:630][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:630][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:630][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:630][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:631][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:631][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:631][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:632][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:632][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:632][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:632][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:632][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:632][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:632][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:634][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:634][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:634][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:634][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.18.42:634][861]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.10:674][846]Cmd: TRANSACTION UNDO
+[2026.03.16-15.19.10:674][846]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.03.16-15.19.11:154][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_2_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:154][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:154][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:154][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:154][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_1_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:155][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:155][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:155][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:157][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:157][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:157][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:157][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:158][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:158][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:158][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:159][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:159][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:159][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:160][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:160][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:160][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:160][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:161][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:161][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:161][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:161][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:161][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:161][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:163][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:163][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:163][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:163][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:163][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:163][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:164][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:164][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:164][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:165][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:165][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:165][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:165][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:167][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:167][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:167][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:169][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:169][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:169][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:169][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.11:169][846]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:127][453]Cmd: TRANSACTION UNDO
+[2026.03.16-15.19.56:127][453]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2026.03.16-15.19.56:432][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:432][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:432][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:433][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:433][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:433][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:434][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:434][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:434][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:434][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:434][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:434][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:436][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:436][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:436][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:436][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:437][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:437][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:437][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:437][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:438][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:438][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:438][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:439][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:439][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:439][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:439][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:440][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:440][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:440][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:440][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:441][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:442][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:442][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:442][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:442][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:442][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:443][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:443][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:443][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:444][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:444][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:444][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:444][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:444][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:446][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:446][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:446][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:446][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:447][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:447][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:447][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:448][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:448][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:448][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:448][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:449][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:449][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:449][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:449][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:450][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:450][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:450][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:450][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:450][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:451][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:451][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:451][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:451][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:453][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:453][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:453][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:453][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:453][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:454][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:454][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:455][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:455][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:455][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:455][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.56:456][453]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.19.57:160][510]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2026.03.16-15.19.57:244][510]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.085 s
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: === Handled ensure: ===
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: 
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: Ensure condition failed: ValidX1 <= ValidX2 && ValidY1 <= ValidY2  [File:D:\build\++UE5\Sync\Engine\Source\Editor\LandscapeEditor\Private\LandscapeEdModeTools.h] [Line: 315] 
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: Invalid cache area: X(2147483647--2147483648), Y(2147483647--2147483648) from region X(1071-1134), Y(441-567)
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: Stack: 
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x0000024cf9858202 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x0000024cf97155a3 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x0000024cf9722a78 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x0000024cf973c939 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x0000024cf96fa65e UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x0000024cf970f5d1 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x0000024cf96aa598 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff2a04725b UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff2942840c UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff29459021 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff29469879 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff294dfd7b UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff299fb27a UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff2402063e UnrealEditor-Engine.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff532eea97 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff52f33909 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff52f8d8c3 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff52f7d0c4 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff52f71776 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff7eacab78 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff7eab5786 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff7eacd85e UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff7eab05b7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007ff801d1c396 USER32.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007ff801d1a7ed USER32.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007fff7eaebb26 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007ff696e0632d UnrealEditor.exe!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007ff696e257ac UnrealEditor.exe!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007ff696e2589a UnrealEditor.exe!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007ff696e29114 UnrealEditor.exe!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007ff696e3bd04 UnrealEditor.exe!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007ff696e3f0ba UnrealEditor.exe!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007ff8024be8d7 KERNEL32.DLL!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: [Callstack] 0x00007ff8037ac48c ntdll.dll!UnknownFunction []
+[2026.03.16-15.19.57:245][510]LogOutputDevice: Error: 
+[2026.03.16-15.19.57:251][510]LogStats:                SubmitErrorReport -  0.000 s
+[2026.03.16-15.19.59:503][510]LogStats:                    SendNewReport -  2.252 s
+[2026.03.16-15.19.59:503][510]LogStats:             FDebug::EnsureFailed -  2.343 s
+[2026.03.16-15.19.59:503][510]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2026.03.16-15.19.59:558][510]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.055 s
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: === Handled ensure: ===
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: 
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: Ensure condition failed: HasCachedData(X1, Y1, X2, Y2)  [File:D:\build\++UE5\Sync\Engine\Source\Editor\LandscapeEditor\Private\LandscapeEdModeTools.h] [Line: 500] 
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: 
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: Stack: 
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: [Callstack] 0x0000024cf9722ad7 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: [Callstack] 0x0000024cf973c939 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: [Callstack] 0x0000024cf96fa65e UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: [Callstack] 0x0000024cf970f5d1 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: [Callstack] 0x0000024cf96aa598 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: [Callstack] 0x00007fff2a04725b UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: [Callstack] 0x00007fff2942840c UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: [Callstack] 0x00007fff29459021 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: [Callstack] 0x00007fff29469879 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: [Callstack] 0x00007fff294dfd7b UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: [Callstack] 0x00007fff299fb27a UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.03.16-15.19.59:558][510]LogOutputDevice: Error: [Callstack] 0x00007fff2402063e UnrealEditor-Engine.dll!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007fff532eea97 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007fff52f33909 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007fff52f8d8c3 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007fff52f7d0c4 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007fff52f71776 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007fff7eacab78 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007fff7eab5786 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007fff7eacd85e UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007fff7eab05b7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007ff801d1c396 USER32.dll!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007ff801d1a7ed USER32.dll!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007fff7eaebb26 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007ff696e0632d UnrealEditor.exe!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007ff696e257ac UnrealEditor.exe!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007ff696e2589a UnrealEditor.exe!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007ff696e29114 UnrealEditor.exe!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007ff696e3bd04 UnrealEditor.exe!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007ff696e3f0ba UnrealEditor.exe!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007ff8024be8d7 KERNEL32.DLL!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: [Callstack] 0x00007ff8037ac48c ntdll.dll!UnknownFunction []
+[2026.03.16-15.19.59:559][510]LogOutputDevice: Error: 
+[2026.03.16-15.19.59:566][510]LogStats:                SubmitErrorReport -  0.000 s
+[2026.03.16-15.20.05:209][510]LogStats:                    SendNewReport -  5.644 s
+[2026.03.16-15.20.05:210][510]LogStats:             FDebug::EnsureFailed -  5.706 s
+[2026.03.16-15.20.05:523][510]LogAutomationController: Ignoring very large delta of 8.37 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.03.16-15.21.20:813][837]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 322.920898
+[2026.03.16-15.21.20:981][847]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-15.21.20:981][847]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 323.071167, Update Interval: 315.436249
+[2026.03.16-15.21.31:594][472]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.03.16-15.21.34:827][663]LogStreaming: Display: FlushAsyncLoading(406): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.16-15.21.48:766][470]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.16-15.21.51:275][619]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.16-15.21.52:622][699]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.16-15.21.54:211][794]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.16-15.21.54:220][794]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.16-15.21.54:220][794]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.03.16-15.21.54:231][794]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 12.512 ms
+[2026.03.16-15.21.54:235][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.16-15.21.54:245][794]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.03.16-15.21.54:245][794]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.03.16-15.21.54:247][794]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.03.16-15.21.54:259][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012266s)
+[2026.03.16-15.21.54:259][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.012323s)
+[2026.03.16-15.21.54:283][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.16-15.21.54:288][794]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.03.16-15.21.54:291][794]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.16-15.21.54:291][794]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.16-15.21.54:291][794]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.16-15.21.54:291][794]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.16-15.21.54:294][794]LogWorldPartition: Display: WorldPartition initialize took 3.840 ms (total: 43.606 ms)
+[2026.03.16-15.21.54:296][794]LogPlayLevel: PIE: World Init took: (0.006580s)
+[2026.03.16-15.21.54:297][794]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.03.16-15.21.54:297][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.16-15.21.54:297][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.16-15.21.54:297][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.16-15.21.54:297][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.16-15.21.54:297][794]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.16-15.21.54:297][794]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.16-15.21.54:297][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.16-15.21.54:297][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.16-15.21.54:297][794]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.16-15.21.54:297][794]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.16-15.21.54:297][794]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.16-15.21.54:299][794]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.16-15.21.54:350][794]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.16-15.21.54:351][794]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.16-15.21.54:351][794]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.16-15.21.54:351][794]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.16-15.21.54:351][794]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.03.16-15.21.54:351][794]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.03.16-15.21.54:354][794]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.03.16-15.21.54:354][794]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.03.16-15.21.54:354][794]LogInit: FAudioDevice initialized with ID 2.
+[2026.03.16-15.21.54:354][794]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2026.03.16-15.21.54:354][794]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.03.16-15.21.54:361][794]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.16-15.21.54:369][794]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.03.16-15.21.54
+[2026.03.16-15.21.54:369][794]LogWorld: Bringing up level for play took: 0.006523
+[2026.03.16-15.21.54:372][794]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2026.03.16-15.21.54:439][794]PIE: Server logged in
+[2026.03.16-15.21.54:441][794]PIE: Play in editor total start time 0.223 seconds.
+[2026.03.16-15.22.02:551][275]LogShaderCompilers: Display: ================================================
+[2026.03.16-15.22.02:551][275]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.16-15.22.02:551][275]LogShaderCompilers: Display: Total job queries 547, among them cache hits 6 (1.10%), DDC hits 469 (85.74%), Duplicates 69 (12.61%)
+[2026.03.16-15.22.02:551][275]LogShaderCompilers: Display: Tracking 472 distinct input hashes that result in 295 distinct outputs (62.50%)
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: RAM used: 180.54 KiB of 819.20 MiB budget. Usage: 0.02%
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: Shaders Compiled: 3
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.11 s
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: Job execution time: average 1.25 s, max 1.56 s
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: Job life time (pending + execution): average 1.36 s, max 1.66
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: Shader code size: average 9.338 KiB, min 7.188 KiB, max 12.332 KiB
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.66 s
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: Average processing rate: 1.80 jobs/sec
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: Total thread time: 1.805 s
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: Total thread preprocess time: 7.649 s
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: Percentage time preprocessing: 423.74%
+[2026.03.16-15.22.02:552][275]LogShaderCompilers: Display: Effective parallelization: 1.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 52.09% of total time (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.07% of total time (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.84% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display: === Material stats ===
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display: Materials Translated:    161
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display: Material Translation Only: 0.07 s (47%)
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display: Material Cache Hits: 25 (16%)
+[2026.03.16-15.22.02:553][275]LogShaderCompilers: Display: ================================================
+[2026.03.16-15.22.09:763][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.16-15.22.09:763][705]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.03.16-15.22.09:764][705]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-15.22.09:765][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.22.09:765][705]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.03.16-15.22.09:770][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.16-15.22.09:774][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.22.09:788][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.16-15.22.09:788][705]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.03.16-15.22.09:788][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2026.03.16-15.22.09:791][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2026.03.16-15.22.09:799][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.16-15.22.09:855][706]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2026.03.16-15.22.12:251][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.16-15.22.12:309][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.16-15.22.12:320][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.16-15.22.12:333][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.16-15.22.12:355][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+[2026.03.16-15.22.12:355][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/SWSI13675DVYIZ0N4NF7Y3585A983D48C885616CD34E9A8E6109A2.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset'
+[2026.03.16-15.22.12:369][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/XD/EOJQV2T86ZWYTDLRUSLE4V
+[2026.03.16-15.22.12:369][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/EOJQV2T86ZWYTDLRUSLE4V75219D6943DD4CC2D5BBF1BAD4F4F5EA.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/XD/EOJQV2T86ZWYTDLRUSLE4V.uasset'
+[2026.03.16-15.22.12:376][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_0_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:377][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_0_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:378][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_0_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:379][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_0_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:380][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_0_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:381][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_0_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:390][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/7A/7SQUAPSD6I8O179ETRCSG7
+[2026.03.16-15.22.12:390][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/7SQUAPSD6I8O179ETRCSG764E0DDE84DBA2E77092905B31F5A395E.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/7A/7SQUAPSD6I8O179ETRCSG7.uasset'
+[2026.03.16-15.22.12:395][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:396][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:397][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:398][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:399][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:400][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:400][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:402][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_0_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:412][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/22/HJA9C71SBIAADGPM1DXMHY
+[2026.03.16-15.22.12:412][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/HJA9C71SBIAADGPM1DXMHYCB6331054C1A65DD6571B2AD230EAC0E.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/22/HJA9C71SBIAADGPM1DXMHY.uasset'
+[2026.03.16-15.22.12:416][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:417][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:418][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:418][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:420][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:421][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:422][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:423][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_0_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:432][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Q0/JQ1LW8GGTATM6EUV38CJQD
+[2026.03.16-15.22.12:433][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/JQ1LW8GGTATM6EUV38CJQD55B5275D464391EF0AA465BC3AE85927.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Q0/JQ1LW8GGTATM6EUV38CJQD.uasset'
+[2026.03.16-15.22.12:436][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:438][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:439][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:440][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:441][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:442][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:442][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:444][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_0_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:453][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/FD/R1YAMUOXQNQ3NTZ6EA6GMT
+[2026.03.16-15.22.12:453][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/R1YAMUOXQNQ3NTZ6EA6GMT3295F6DC446BF54C25D454A821DEFAB2.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/FD/R1YAMUOXQNQ3NTZ6EA6GMT.uasset'
+[2026.03.16-15.22.12:459][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_1_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:461][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_1_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:461][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:462][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:463][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_1_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:464][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:465][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:466][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:475][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WK/IASBCUA1I0SID341PXDOA2
+[2026.03.16-15.22.12:476][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/IASBCUA1I0SID341PXDOA235EDC26F4E382BCDD010DA8DAC096755.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WK/IASBCUA1I0SID341PXDOA2.uasset'
+[2026.03.16-15.22.12:479][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:481][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:486][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:488][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:489][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:490][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:491][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:492][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:503][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/H3/BVKEO2Q9AUIX1AOMWGW0TH
+[2026.03.16-15.22.12:503][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/BVKEO2Q9AUIX1AOMWGW0THBE381D66436F7FE22FCB9FA8C98A9C88.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/H3/BVKEO2Q9AUIX1AOMWGW0TH.uasset'
+[2026.03.16-15.22.12:506][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:508][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:509][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:511][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:511][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:512][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:513][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:514][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:524][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/V2/8S7VE7RASCEZ2MPAXK1CVQ
+[2026.03.16-15.22.12:524][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/8S7VE7RASCEZ2MPAXK1CVQFD14984D4CFEED97FC5D0789ABD6546B.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/V2/8S7VE7RASCEZ2MPAXK1CVQ.uasset'
+[2026.03.16-15.22.12:528][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:530][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:530][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:531][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:532][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:533][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:534][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:535][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:544][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/JL/41QD6J5CNGCXFPO3FL8HP2
+[2026.03.16-15.22.12:544][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/41QD6J5CNGCXFPO3FL8HP28457A56E4BA7B212F1DC8FB36090C2E6.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/JL/41QD6J5CNGCXFPO3FL8HP2.uasset'
+[2026.03.16-15.22.12:548][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:550][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:550][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_2_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:551][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_2_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:552][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:554][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:555][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_2_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:556][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:565][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B5/AIFXQAJ4JCGT9FQFEU293F
+[2026.03.16-15.22.12:565][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/AIFXQAJ4JCGT9FQFEU293F7C43DC394F7A9CF647ABEBADBEA3EE34.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B5/AIFXQAJ4JCGT9FQFEU293F.uasset'
+[2026.03.16-15.22.12:569][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:571][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:572][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:573][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:574][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:575][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:575][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:577][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:587][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/IN/K81RP52B8SZFLI5T20O1VP
+[2026.03.16-15.22.12:587][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/K81RP52B8SZFLI5T20O1VPF27449F04A7437C3520DFEA59B648296.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/IN/K81RP52B8SZFLI5T20O1VP.uasset'
+[2026.03.16-15.22.12:590][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:591][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:592][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:593][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:594][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:595][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:596][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:598][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:608][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/SD/LJJ3CYIESUTKI4EXHAYTIE
+[2026.03.16-15.22.12:608][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/LJJ3CYIESUTKI4EXHAYTIE6F7F73164F2431B192BA81B62FD0A851.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/SD/LJJ3CYIESUTKI4EXHAYTIE.uasset'
+[2026.03.16-15.22.12:612][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:614][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:615][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:615][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:616][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:617][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:618][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:618][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:628][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/07/1XZ5DJUYKUPURDLJA8JKQQ
+[2026.03.16-15.22.12:628][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/1XZ5DJUYKUPURDLJA8JKQQ3048275B4701DBF019522AA59A41FC0E.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/07/1XZ5DJUYKUPURDLJA8JKQQ.uasset'
+[2026.03.16-15.22.12:632][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:634][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:634][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:635][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:636][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_3_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:638][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:639][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_3_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:640][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_0_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:650][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/3H/FOWCMDHODIKHL2VCO9LU65
+[2026.03.16-15.22.12:650][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/FOWCMDHODIKHL2VCO9LU65D1D974554796F9D6860B2AB825858E20.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/3H/FOWCMDHODIKHL2VCO9LU65.uasset'
+[2026.03.16-15.22.12:654][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:655][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:656][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:657][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:658][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:659][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:659][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:661][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_1_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:671][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/O4/7AF6R0ZR2M0GW9FB7K7JJZ
+[2026.03.16-15.22.12:671][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/7AF6R0ZR2M0GW9FB7K7JJZCDA1DF664CA2E871489B98AC803FB6F4.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/O4/7AF6R0ZR2M0GW9FB7K7JJZ.uasset'
+[2026.03.16-15.22.12:674][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:675][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:677][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:678][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:679][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:680][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:681][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:686][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_2_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:695][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/1X/QA4ATIO0L8I48KOF8QP9SB
+[2026.03.16-15.22.12:695][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/QA4ATIO0L8I48KOF8QP9SB462A18C741E15E75C7F4C68903FC755F.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/1X/QA4ATIO0L8I48KOF8QP9SB.uasset'
+[2026.03.16-15.22.12:699][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:701][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:702][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:703][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:704][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:704][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:705][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:706][847]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_6I4J11620KRMZ19ABQ8P6Y2QY_126_3_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.03.16-15.22.12:715][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/ML/5VN706C8W7AZFIUPB8FDHC
+[2026.03.16-15.22.12:715][847]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/5VN706C8W7AZFIUPB8FDHC1D07BEDE41D3A8B947BF8BA1A43803E5.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/ML/5VN706C8W7AZFIUPB8FDHC.uasset'
+[2026.03.16-15.22.12:728][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 477.271 ms
+[2026.03.16-15.22.12:768][847]LogContentValidation: Display: Starting to validate 18 assets
+[2026.03.16-15.22.12:768][847]LogContentValidation: Enabled validators:
+[2026.03.16-15.22.12:768][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.16-15.22.12:768][847]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.16-15.22.12:768][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.16-15.22.12:768][847]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.16-15.22.12:768][847]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.16-15.22.12:768][847]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.16-15.22.12:770][847]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
