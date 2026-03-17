@@ -1,0 +1,80 @@
+2026/03/16-16:24:37.592 608c Creating DB C:/Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/03/16-16:24:37.599 608c Reusing MANIFEST C:/Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/16-16:34:40.076 25b4 Level-0 table #5: started
+2026/03/16-16:34:40.080 25b4 Level-0 table #5: 68110 bytes OK
+2026/03/16-16:34:40.082 25b4 Delete type=0 #3
+2026/03/16-16:40:40.073 2700 Level-0 table #7: started
+2026/03/16-16:40:40.075 2700 Level-0 table #7: 69875 bytes OK
+2026/03/16-16:40:40.077 2700 Delete type=0 #4
+2026/03/16-16:43:51.083 635c Level-0 table #9: started
+2026/03/16-16:43:51.085 635c Level-0 table #9: 80386 bytes OK
+2026/03/16-16:43:51.088 635c Delete type=0 #6
+2026/03/16-16:46:40.081 1d8 Level-0 table #11: started
+2026/03/16-16:46:40.083 1d8 Level-0 table #11: 73918 bytes OK
+2026/03/16-16:46:40.085 1d8 Delete type=0 #8
+2026/03/16-16:49:40.071 639c Level-0 table #13: started
+2026/03/16-16:49:40.074 639c Level-0 table #13: 89434 bytes OK
+2026/03/16-16:49:40.076 639c Delete type=0 #10
+2026/03/16-16:51:40.080 73a4 Level-0 table #15: started
+2026/03/16-16:51:40.082 73a4 Level-0 table #15: 70582 bytes OK
+2026/03/16-16:51:40.084 73a4 Delete type=0 #12
+2026/03/16-16:51:40.085 73a4 Compacting 4@0 + 1@1 files
+2026/03/16-16:51:40.088 73a4 Generated table #16@0: 3 keys, 37144 bytes
+2026/03/16-16:51:40.088 73a4 Compacted 4@0 + 1@1 files => 37144 bytes
+2026/03/16-16:51:40.089 73a4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/16-16:51:40.090 73a4 Delete type=2 #7
+2026/03/16-16:51:40.090 73a4 Delete type=2 #9
+2026/03/16-16:51:40.090 73a4 Delete type=2 #11
+2026/03/16-16:51:40.090 73a4 Delete type=2 #13
+2026/03/16-16:51:40.090 73a4 Delete type=2 #15
+2026/03/16-16:53:40.084 754c Level-0 table #18: started
+2026/03/16-16:53:40.086 754c Level-0 table #18: 78400 bytes OK
+2026/03/16-16:53:40.087 754c Delete type=0 #14
+2026/03/16-16:56:40.083 1104 Level-0 table #20: started
+2026/03/16-16:56:40.085 1104 Level-0 table #20: 78859 bytes OK
+2026/03/16-16:56:40.087 1104 Delete type=0 #17
+2026/03/16-16:58:40.070 5420 Level-0 table #22: started
+2026/03/16-16:58:40.073 5420 Level-0 table #22: 78148 bytes OK
+2026/03/16-16:58:40.074 5420 Delete type=0 #19
+2026/03/16-17:00:40.082 1f54 Level-0 table #24: started
+2026/03/16-17:00:40.090 1f54 Level-0 table #24: 77826 bytes OK
+2026/03/16-17:00:40.092 1f54 Delete type=0 #21
+2026/03/16-17:00:40.092 1f54 Compacting 4@0 + 1@1 files
+2026/03/16-17:00:40.095 1f54 Generated table #25@0: 3 keys, 38964 bytes
+2026/03/16-17:00:40.095 1f54 Compacted 4@0 + 1@1 files => 38964 bytes
+2026/03/16-17:00:40.096 1f54 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/16-17:00:40.097 1f54 Delete type=2 #16
+2026/03/16-17:00:40.097 1f54 Delete type=2 #18
+2026/03/16-17:00:40.097 1f54 Delete type=2 #20
+2026/03/16-17:00:40.097 1f54 Delete type=2 #22
+2026/03/16-17:00:40.097 1f54 Delete type=2 #24
+2026/03/16-17:03:20.693 4108 Level-0 table #27: started
+2026/03/16-17:03:20.695 4108 Level-0 table #27: 77754 bytes OK
+2026/03/16-17:03:20.696 4108 Delete type=0 #23
+2026/03/16-17:04:40.071 544c Level-0 table #29: started
+2026/03/16-17:04:40.073 544c Level-0 table #29: 77155 bytes OK
+2026/03/16-17:04:40.074 544c Delete type=0 #26
+2026/03/16-17:06:40.069 30c0 Level-0 table #31: started
+2026/03/16-17:06:40.072 30c0 Level-0 table #31: 77054 bytes OK
+2026/03/16-17:06:40.073 30c0 Delete type=0 #28
+2026/03/16-17:08:40.079 81c8 Level-0 table #33: started
+2026/03/16-17:08:40.081 81c8 Level-0 table #33: 77042 bytes OK
+2026/03/16-17:08:40.083 81c8 Delete type=0 #30
+2026/03/16-17:08:40.083 81c8 Compacting 4@0 + 1@1 files
+2026/03/16-17:08:40.085 81c8 Generated table #34@0: 3 keys, 38632 bytes
+2026/03/16-17:08:40.085 81c8 Compacted 4@0 + 1@1 files => 38632 bytes
+2026/03/16-17:08:40.086 81c8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/16-17:08:40.086 81c8 Delete type=2 #25
+2026/03/16-17:08:40.087 81c8 Delete type=2 #27
+2026/03/16-17:08:40.087 81c8 Delete type=2 #29
+2026/03/16-17:08:40.087 81c8 Delete type=2 #31
+2026/03/16-17:08:40.087 81c8 Delete type=2 #33
+2026/03/16-17:11:33.309 7948 Level-0 table #36: started
+2026/03/16-17:11:33.311 7948 Level-0 table #36: 77179 bytes OK
+2026/03/16-17:11:33.313 7948 Delete type=0 #32
+2026/03/16-17:12:40.074 82dc Level-0 table #38: started
+2026/03/16-17:12:40.076 82dc Level-0 table #38: 77034 bytes OK
+2026/03/16-17:12:40.078 82dc Delete type=0 #35
+2026/03/16-17:14:40.075 65ac Level-0 table #40: started
+2026/03/16-17:14:40.077 65ac Level-0 table #40: 76530 bytes OK
+2026/03/16-17:14:40.079 65ac Delete type=0 #37
