@@ -5009,3 +5009,816 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.03.16-17.20.00:539][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
 [2026.03.16-17.20.00:550][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
 [2026.03.16-17.20.00:560][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.479 ms (total: 1.00 sec)
+[2026.03.16-17.25.34:627][320]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6983.079102
+[2026.03.16-17.25.35:625][323]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-17.25.35:625][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6983.745117, Update Interval: 344.942780
+[2026.03.16-17.31.05:961][314]LogDerivedDataCache: C:/Users/ricok/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.16-17.32.07:380][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7375.838379
+[2026.03.16-17.32.08:379][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-17.32.08:379][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7376.504883, Update Interval: 356.381714
+[2026.03.16-17.38.39:103][673]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7767.568359
+[2026.03.16-17.38.40:105][676]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-17.38.40:106][676]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7768.235352, Update Interval: 353.424469
+[2026.03.16-17.45.18:485][871]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8166.954102
+[2026.03.16-17.45.19:486][874]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-17.45.19:487][874]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8167.620605, Update Interval: 320.784943
+[2026.03.16-17.51.30:766][987]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8539.192383
+[2026.03.16-17.51.31:767][990]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-17.51.31:767][990]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8539.859375, Update Interval: 336.869415
+[2026.03.16-21.03.43:269][885]LogHttp: Warning: 000005586B0FA100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-21.03.43:269][885]LogHttp: Warning: 000005586B0FA100: libcurl info message cache 0 (Too old connection (11252 seconds idle), disconnect it)
+[2026.03.16-21.03.43:270][885]LogHttp: Warning: 000005586B0FA100: libcurl info message cache 1 (Connection 18 seems to be dead)
+[2026.03.16-21.03.43:270][885]LogHttp: Warning: 000005586B0FA100: libcurl info message cache 2 (Closing connection)
+[2026.03.16-21.03.43:270][885]LogHttp: Warning: 000005586B0FA100: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.03.16-21.03.43:270][885]LogHttp: Warning: 000005586B0FA100: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.03.16-21.03.43:270][885]LogHttp: Warning: 000005586B0FA100: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.03.16-21.03.43:270][885]LogHttp: Warning: 000005586B0FA100: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.16-21.03.43:270][885]LogHttp: Warning: 000005586B0FA100: libcurl info message cache 7 (Closing connection)
+[2026.03.16-21.03.43:270][885]LogEOSSDK: Warning: LogHttp: 0000055837AB0600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC7190857-4A21-479D-C909-4082A3A040CF%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.16-21.03.43:270][885]LogEOSSDK: Warning: LogHttp: 0000055837AB0600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-21.03.43:270][885]LogEOSSDK: Warning: LogHttp: 0000055837AB0600: libcurl info message cache 0 (Too old connection (11252 seconds idle), disconnect it)
+[2026.03.16-21.03.43:271][885]LogEOSSDK: Warning: LogHttp: 0000055837AB0600: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2026.03.16-21.03.43:271][885]LogEOSSDK: Warning: LogHttp: 0000055837AB0600: libcurl info message cache 2 (Closing connection)
+[2026.03.16-21.03.43:271][885]LogEOSSDK: Warning: LogHttp: 0000055837AB0600: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.03.16-21.03.43:271][885]LogEOSSDK: Warning: LogHttp: 0000055837AB0600: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.03.16-21.03.43:271][885]LogEOSSDK: Warning: LogHttp: 0000055837AB0600: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.03.16-21.03.43:271][885]LogEOSSDK: Warning: LogHttp: 0000055837AB0600: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2026.03.16-21.03.43:271][885]LogEOSSDK: Warning: LogHttp: 0000055837AB0600: libcurl info message cache 7 (Closing connection)
+[2026.03.16-21.03.43:416][887]LogEOSSDK: Warning: LogHttp: 0000055837AB9600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.16-21.03.43:416][887]LogEOSSDK: Warning: LogHttp: 0000055837AB9600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-21.03.43:416][887]LogEOSSDK: Warning: LogHttp: 0000055837AB9600: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.03.16-21.03.43:416][887]LogEOSSDK: Warning: LogHttp: 0000055837AB9600: libcurl info message cache 1 (Closing connection)
+[2026.03.16-21.03.43:417][887]LogEOSSDK: Warning: LogHttp: 0000055837ABA200: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.16-21.03.43:418][887]LogEOSSDK: Warning: LogHttp: 0000055837ABA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-21.03.43:418][887]LogEOSSDK: Warning: LogHttp: 0000055837ABA200: libcurl info message cache 0 (Found bundle for host: 0x55816080660 [serially])
+[2026.03.16-21.03.43:418][887]LogEOSSDK: Warning: LogHttp: 0000055837ABA200: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.03.16-21.03.43:418][887]LogEOSSDK: Warning: LogHttp: 0000055837ABA200: libcurl info message cache 2 (Closing connection)
+[2026.03.16-21.03.43:418][887]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC7190857-4A21-479D-C909-4082A3A040CF%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.03.16-21.03.43:418][887]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.16-21.03.43:418][887]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865
+[2026.03.16-21.03.46:389][889]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.16-21.03.46:390][889]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865
+[2026.03.16-21.03.47:071][892]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.16-21.03.47:071][892]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865
+[2026.03.16-21.04.30:749][ 23]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20120.500000
+[2026.03.16-21.04.31:747][ 26]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-21.04.31:747][ 26]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20121.166016, Update Interval: 305.877869
+[2026.03.16-21.10.25:145][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20475.201172
+[2026.03.16-21.10.26:145][ 89]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-21.10.26:145][ 89]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20475.867188, Update Interval: 327.962891
+[2026.03.16-21.16.53:549][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20863.974609
+[2026.03.16-21.16.54:548][254]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-21.16.54:548][255]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20864.640625, Update Interval: 320.382080
+[2026.03.16-21.22.49:273][946]LogHttp: Warning: 000005586B0FCB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-21.22.49:274][946]LogHttp: Warning: 000005586B0FCB00: libcurl info message cache 0 (Too old connection (154 seconds idle), disconnect it)
+[2026.03.16-21.22.49:274][946]LogHttp: Warning: 000005586B0FCB00: libcurl info message cache 1 (Connection 20 seems to be dead)
+[2026.03.16-21.22.49:274][946]LogHttp: Warning: 000005586B0FCB00: libcurl info message cache 2 (Closing connection)
+[2026.03.16-21.22.49:274][946]LogHttp: Warning: 000005586B0FCB00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.03.16-21.22.49:274][946]LogHttp: Warning: 000005586B0FCB00: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.03.16-21.22.49:274][946]LogHttp: Warning: 000005586B0FCB00: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.03.16-21.22.49:274][946]LogHttp: Warning: 000005586B0FCB00: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.16-21.22.49:274][946]LogHttp: Warning: 000005586B0FCB00: libcurl info message cache 7 (Closing connection)
+[2026.03.16-21.22.49:274][946]LogEOSSDK: Warning: LogHttp: 0000055837ABE400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC7190857-4A21-479D-C909-4082A3A040CF%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.16-21.22.49:274][946]LogEOSSDK: Warning: LogHttp: 0000055837ABE400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-21.22.49:274][946]LogEOSSDK: Warning: LogHttp: 0000055837ABE400: libcurl info message cache 0 (Too old connection (158 seconds idle), disconnect it)
+[2026.03.16-21.22.49:274][946]LogEOSSDK: Warning: LogHttp: 0000055837ABE400: libcurl info message cache 1 (Connection 10 seems to be dead)
+[2026.03.16-21.22.49:274][946]LogEOSSDK: Warning: LogHttp: 0000055837ABE400: libcurl info message cache 2 (Closing connection)
+[2026.03.16-21.22.49:274][946]LogEOSSDK: Warning: LogHttp: 0000055837ABE400: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.03.16-21.22.49:274][946]LogEOSSDK: Warning: LogHttp: 0000055837ABE400: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.03.16-21.22.49:274][946]LogEOSSDK: Warning: LogHttp: 0000055837ABE400: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.03.16-21.22.49:274][946]LogEOSSDK: Warning: LogHttp: 0000055837ABE400: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2026.03.16-21.22.49:274][946]LogEOSSDK: Warning: LogHttp: 0000055837ABE400: libcurl info message cache 7 (Closing connection)
+[2026.03.16-21.22.49:274][946]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC7190857-4A21-479D-C909-4082A3A040CF%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.03.16-21.22.49:476][948]LogEOSSDK: Warning: LogHttp: 0000055837ABF000: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.16-21.22.49:476][948]LogEOSSDK: Warning: LogHttp: 0000055837ABF000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-21.22.49:476][948]LogEOSSDK: Warning: LogHttp: 0000055837ABF000: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.03.16-21.22.49:476][948]LogEOSSDK: Warning: LogHttp: 0000055837ABF000: libcurl info message cache 1 (Closing connection)
+[2026.03.16-21.22.49:477][948]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865
+[2026.03.16-21.22.50:807][951]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865
+[2026.03.16-21.22.51:140][952]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865
+[2026.03.16-21.23.46:820][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21277.539062
+[2026.03.16-21.23.47:820][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-21.23.47:821][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21278.207031, Update Interval: 356.524536
+[2026.03.16-21.54.59:521][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23150.642578
+[2026.03.16-21.55.00:286][250]LogHttp: Warning: 000005586B0FE700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-21.55.00:286][250]LogHttp: Warning: 000005586B0FE700: libcurl info message cache 0 (Too old connection (1545 seconds idle), disconnect it)
+[2026.03.16-21.55.00:286][250]LogHttp: Warning: 000005586B0FE700: libcurl info message cache 1 (Connection 22 seems to be dead)
+[2026.03.16-21.55.00:287][250]LogHttp: Warning: 000005586B0FE700: libcurl info message cache 2 (Closing connection)
+[2026.03.16-21.55.00:287][250]LogHttp: Warning: 000005586B0FE700: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.03.16-21.55.00:287][250]LogHttp: Warning: 000005586B0FE700: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.03.16-21.55.00:287][250]LogHttp: Warning: 000005586B0FE700: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.03.16-21.55.00:287][250]LogHttp: Warning: 000005586B0FE700: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.16-21.55.00:287][250]LogHttp: Warning: 000005586B0FE700: libcurl info message cache 7 (Closing connection)
+[2026.03.16-21.55.00:287][250]LogEOSSDK: Warning: LogHttp: 0000055837AB3000: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC7190857-4A21-479D-C909-4082A3A040CF%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.16-21.55.00:287][250]LogEOSSDK: Warning: LogHttp: 0000055837AB3000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-21.55.00:287][250]LogEOSSDK: Warning: LogHttp: 0000055837AB3000: libcurl info message cache 0 (Too old connection (1549 seconds idle), disconnect it)
+[2026.03.16-21.55.00:287][250]LogEOSSDK: Warning: LogHttp: 0000055837AB3000: libcurl info message cache 1 (Connection 14 seems to be dead)
+[2026.03.16-21.55.00:287][250]LogEOSSDK: Warning: LogHttp: 0000055837AB3000: libcurl info message cache 2 (Closing connection)
+[2026.03.16-21.55.00:287][250]LogEOSSDK: Warning: LogHttp: 0000055837AB3000: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.03.16-21.55.00:287][250]LogEOSSDK: Warning: LogHttp: 0000055837AB3000: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.03.16-21.55.00:288][250]LogEOSSDK: Warning: LogHttp: 0000055837AB3000: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.03.16-21.55.00:288][250]LogEOSSDK: Warning: LogHttp: 0000055837AB3000: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2026.03.16-21.55.00:288][250]LogEOSSDK: Warning: LogHttp: 0000055837AB3000: libcurl info message cache 7 (Closing connection)
+[2026.03.16-21.55.00:288][250]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC7190857-4A21-479D-C909-4082A3A040CF%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.03.16-21.55.00:625][252]LogEOSSDK: Warning: LogHttp: 0000055837ABB400: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.16-21.55.00:625][252]LogEOSSDK: Warning: LogHttp: 0000055837ABB400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-21.55.00:625][252]LogEOSSDK: Warning: LogHttp: 0000055837ABB400: libcurl info message cache 0 (Found bundle for host: 0x558160809f0 [serially])
+[2026.03.16-21.55.00:625][252]LogEOSSDK: Warning: LogHttp: 0000055837ABB400: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.03.16-21.55.00:625][252]LogEOSSDK: Warning: LogHttp: 0000055837ABB400: libcurl info message cache 2 (Closing connection)
+[2026.03.16-21.55.00:625][252]LogEOSSDK: Warning: LogHttp: 0000055837AB0000: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.16-21.55.00:625][252]LogEOSSDK: Warning: LogHttp: 0000055837AB0000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-21.55.00:625][252]LogEOSSDK: Warning: LogHttp: 0000055837AB0000: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.03.16-21.55.00:625][252]LogEOSSDK: Warning: LogHttp: 0000055837AB0000: libcurl info message cache 1 (Closing connection)
+[2026.03.16-21.55.00:625][252]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865
+[2026.03.16-21.55.00:625][252]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30
+[2026.03.16-21.55.00:625][253]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetProductConfigRoute], Url=[<Redacted>]
+[2026.03.16-21.55.00:958][253]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 50.530411 seconds
+[2026.03.16-21.55.01:625][255]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865
+[2026.03.16-21.55.01:959][256]LogEOSSDK: Warning: LogHttp: 0000055837AB0000: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.16-21.55.01:959][256]LogEOSSDK: Warning: LogHttp: 0000055837AB0000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-21.55.01:959][256]LogEOSSDK: Warning: LogHttp: 0000055837AB0000: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2026.03.16-21.55.01:959][256]LogEOSSDK: Warning: LogHttp: 0000055837AB0000: libcurl info message cache 3 (Closing connection)
+[2026.03.16-21.55.01:959][256]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865
+[2026.03.16-21.55.03:292][260]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865
+[2026.03.16-21.55.03:625][261]LogEOSSDK: Warning: LogHttp: 0000055837AB0000: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.16-21.55.03:625][262]LogEOSSDK: Warning: LogHttp: 0000055837AB0000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-21.55.03:625][262]LogEOSSDK: Warning: LogHttp: 0000055837AB0000: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2026.03.16-21.55.03:625][262]LogEOSSDK: Warning: LogHttp: 0000055837AB0000: libcurl info message cache 5 (Closing connection)
+[2026.03.16-21.55.03:625][262]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865
+[2026.03.16-21.55.03:625][262]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.03.16-22.30.05:200][264]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25256.324219
+[2026.03.16-22.30.06:135][265]LogHttp: Warning: 000005586B0FC400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-22.30.06:135][265]LogHttp: Warning: 000005586B0FC400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.16-22.30.06:135][265]LogHttp: Warning: 000005586B0FC400: libcurl info message cache 1 (Closing connection)
+[2026.03.16-22.30.06:135][265]LogEOSSDK: Warning: LogHttp: 0000055837AB1200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC7190857-4A21-479D-C909-4082A3A040CF%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.16-22.30.06:135][265]LogEOSSDK: Warning: LogHttp: 0000055837AB1200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-22.30.06:135][265]LogEOSSDK: Warning: LogHttp: 0000055837AB1200: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.03.16-22.30.06:135][265]LogEOSSDK: Warning: LogHttp: 0000055837AB1200: libcurl info message cache 1 (Closing connection)
+[2026.03.16-22.30.06:138][266]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC7190857-4A21-479D-C909-4082A3A040CF%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.03.16-22.30.06:471][267]LogEOSSDK: Warning: LogHttp: 0000055837ABC600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.16-22.30.06:471][267]LogEOSSDK: Warning: LogHttp: 0000055837ABC600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-22.30.06:472][267]LogEOSSDK: Warning: LogHttp: 0000055837ABC600: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.03.16-22.30.06:472][267]LogEOSSDK: Warning: LogHttp: 0000055837ABC600: libcurl info message cache 1 (Closing connection)
+[2026.03.16-22.30.06:472][267]LogEOSSDK: Warning: LogHttp: 0000055837AB4800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.16-22.30.06:472][267]LogEOSSDK: Warning: LogHttp: 0000055837AB4800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-22.30.06:472][267]LogEOSSDK: Warning: LogHttp: 0000055837AB4800: libcurl info message cache 0 (Found bundle for host: 0x558160808a0 [serially])
+[2026.03.16-22.30.06:472][267]LogEOSSDK: Warning: LogHttp: 0000055837AB4800: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.03.16-22.30.06:472][267]LogEOSSDK: Warning: LogHttp: 0000055837AB4800: libcurl info message cache 2 (Closing connection)
+[2026.03.16-22.30.06:472][268]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.16-22.30.06:472][268]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865
+[2026.03.16-22.30.07:472][270]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.16-22.30.07:472][270]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865
+[2026.03.16-22.30.10:118][278]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [2106 Seconds] waiting for h/w. InstanceID=1
+[2026.03.16-22.30.10:141][278]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.16-22.30.10:144][279]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27096
+[2026.03.16-22.30.10:473][279]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.16-22.30.10:482][279]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{47478750-108b-4423-b1e5-dbd214aeb740}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=84.56
+[2026.03.16-22.30.10:483][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.16-22.30.10:486][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.16-22.30.10:807][280]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.16-22.30.10:807][280]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1986909F4B5FC391FA70AEB60D5C4865
+[2026.03.16-22.30.12:140][284]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-22.30.12:140][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25262.931641, Update Interval: 313.299347
+[2026.03.16-22.30.13:807][289]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.16-23.05.44:087][289]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [2134 Seconds] waiting for h/w. InstanceID=1
+[2026.03.16-23.05.45:378][290]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.16-23.05.45:378][290]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27096
+[2026.03.16-23.05.46:139][290]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:65284'.
+[2026.03.16-23.05.46:145][290]LogUdpMessaging: Display: Added local interface '192.168.1.185' to multicast group '230.0.0.1:6666'
+[2026.03.16-23.05.47:254][291]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.16-23.05.47:258][291]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{47478750-108b-4423-b1e5-dbd214aeb740}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1477.72
+[2026.03.16-23.05.47:258][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.16-23.05.47:271][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.16-23.06.22:615][398]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27436.667969
+[2026.03.16-23.06.23:615][401]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-23.06.23:615][401]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27437.333984, Update Interval: 320.730011
+[2026.03.16-23.06.47:090][469]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SAMSUNG (NVIDIA High Definition Audio), InstanceID=1
+[2026.03.16-23.06.47:173][469]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.16-23.06.47:173][469]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27096
+[2026.03.16-23.06.48:301][470]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.16-23.06.48:304][470]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{faf8b590-8805-48b8-b206-1ba88769459f}, Name=SAMSUNG (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=109.11
+[2026.03.16-23.06.48:304][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.16-23.06.48:307][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.16-23.12.39:282][520]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27813.728516
+[2026.03.16-23.12.40:282][523]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-23.12.40:282][523]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27814.394531, Update Interval: 356.766266
+[2026.03.16-23.15.45:139][ 78]LogDerivedDataCache: C:/Users/ricok/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.012 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.16-23.19.16:001][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28210.835938
+[2026.03.16-23.19.17:002][713]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-23.19.17:002][713]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28211.503906, Update Interval: 346.627411
+[2026.03.16-23.22.35:169][308]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2026.03.16-23.22.35:373][308]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.16-23.22.35:373][308]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27096
+[2026.03.16-23.22.35:706][309]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.16-23.22.35:710][309]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{47478750-108b-4423-b1e5-dbd214aeb740}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=140.90
+[2026.03.16-23.22.35:710][309]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.16-23.22.35:715][309]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.16-23.23.50:600][405]LogHttp: Warning: 000005586B0FBD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-23.23.50:600][405]LogHttp: Warning: 000005586B0FBD00: libcurl info message cache 0 (Connection 26 seems to be dead)
+[2026.03.16-23.23.50:600][405]LogHttp: Warning: 000005586B0FBD00: libcurl info message cache 1 (Closing connection)
+[2026.03.16-23.23.50:600][405]LogHttp: Warning: 000005586B0FBD00: libcurl info message cache 2 (Recv failure: Connection was reset)
+[2026.03.16-23.23.50:600][405]LogHttp: Warning: 000005586B0FBD00: libcurl info message cache 3 (Send failure: Connection was reset)
+[2026.03.16-23.23.50:600][405]LogHttp: Warning: 000005586B0FBD00: libcurl info message cache 4 (Recv failure: Connection was reset)
+[2026.03.16-23.23.50:600][405]LogHttp: Warning: 000005586B0FBD00: libcurl info message cache 5 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.16-23.23.50:602][406]LogHttp: Warning: 000005586B0FBD00: libcurl info message cache 6 (Closing connection)
+[2026.03.16-23.23.50:602][406]LogEOSSDK: Warning: LogHttp: 0000055837ABD200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC7190857-4A21-479D-C909-4082A3A040CF%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.16-23.23.50:602][406]LogEOSSDK: Warning: LogHttp: 0000055837ABD200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.16-23.23.50:602][406]LogEOSSDK: Warning: LogHttp: 0000055837ABD200: libcurl info message cache 0 (Connection 26 seems to be dead)
+[2026.03.16-23.23.50:602][406]LogEOSSDK: Warning: LogHttp: 0000055837ABD200: libcurl info message cache 1 (Closing connection)
+[2026.03.16-23.23.50:602][406]LogEOSSDK: Warning: LogHttp: 0000055837ABD200: libcurl info message cache 2 (Recv failure: Connection was reset)
+[2026.03.16-23.23.50:602][406]LogEOSSDK: Warning: LogHttp: 0000055837ABD200: libcurl info message cache 3 (Send failure: Connection was reset)
+[2026.03.16-23.23.50:602][406]LogEOSSDK: Warning: LogHttp: 0000055837ABD200: libcurl info message cache 4 (Recv failure: Connection was reset)
+[2026.03.16-23.23.50:602][406]LogEOSSDK: Warning: LogHttp: 0000055837ABD200: libcurl info message cache 5 (Could not resolve host: api.epicgames.dev)
+[2026.03.16-23.23.50:602][406]LogEOSSDK: Warning: LogHttp: 0000055837ABD200: libcurl info message cache 6 (Closing connection)
+[2026.03.16-23.23.51:091][406]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC7190857-4A21-479D-C909-4082A3A040CF%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.03.16-23.23.51:449][409]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SAMSUNG (NVIDIA High Definition Audio), InstanceID=1
+[2026.03.16-23.23.51:761][409]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.16-23.23.51:761][409]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27096
+[2026.03.16-23.23.52:429][411]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.16-23.23.52:434][411]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{faf8b590-8805-48b8-b206-1ba88769459f}, Name=SAMSUNG (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=450.97
+[2026.03.16-23.23.52:434][411]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.16-23.23.52:439][411]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.16-23.25.37:443][726]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28592.587891
+[2026.03.16-23.25.38:444][729]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-23.25.38:444][729]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28593.255859, Update Interval: 332.601105
+[2026.03.16-23.32.05:500][890]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28981.007812
+[2026.03.16-23.32.06:500][893]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-23.32.06:500][893]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28981.675781, Update Interval: 308.150269
+[2026.03.16-23.38.13:220][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29349.066406
+[2026.03.16-23.38.14:219][996]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-23.38.14:220][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29349.732422, Update Interval: 345.351105
+[2026.03.16-23.44.40:626][155]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29736.787109
+[2026.03.16-23.44.41:626][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-23.44.41:626][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29737.455078, Update Interval: 306.046326
+[2026.03.16-23.50.27:011][194]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30083.505859
+[2026.03.16-23.50.28:011][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-23.50.28:011][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30084.173828, Update Interval: 340.185547
+[2026.03.16-23.56.43:396][323]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30460.242188
+[2026.03.16-23.56.44:394][326]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-23.56.44:395][326]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30460.908203, Update Interval: 312.585236
+[2026.03.17-00.02.34:098][375]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30811.322266
+[2026.03.17-00.02.35:099][378]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-00.02.35:099][379]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30811.990234, Update Interval: 359.360931
+[2026.03.17-00.06.16:613][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-00.06.17:311][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2026.03.17-00.06.17:350][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.03.17-00.06.17:367][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.17-00.06.17:549][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 936.058 ms (total: 1.94 sec)
+[2026.03.17-00.06.41:859][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-00.06.42:116][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.17-00.06.42:171][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.17-00.06.42:204][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.03.17-00.06.42:248][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 390.096 ms (total: 2.33 sec)
+[2026.03.17-00.06.43:458][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.17-00.06.46:661][734]LogSlate: Window 'Save Content' being destroyed
+[2026.03.17-00.06.46:731][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-00.06.46:803][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Large_Medieval_Building/a_medieval_tavern__0327012241_texture] ([1] browsable assets)...
+[2026.03.17-00.06.46:803][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Large_Medieval_Building/a_medieval_tavern__0327012241_texture]
+[2026.03.17-00.06.47:287][734]LogSavePackage: Moving output files for package: /Game/Fab/Large_Medieval_Building/a_medieval_tavern__0327012241_texture
+[2026.03.17-00.06.47:287][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/a_medieval_tavern__0327012241_te280AB16D458074173AF7019B9F053F22.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Large_Medieval_Building/a_medieval_tavern__0327012241_texture.uasset'
+[2026.03.17-00.06.47:304][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Large_Medieval_Building/a_medieval_tavern__0327012241_texture_texture_0] ([1] browsable assets)...
+[2026.03.17-00.06.47:304][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Large_Medieval_Building/a_medieval_tavern__0327012241_texture_texture_0]
+[2026.03.17-00.06.47:375][734]LogSavePackage: Moving output files for package: /Game/Fab/Large_Medieval_Building/a_medieval_tavern__0327012241_texture_texture_0
+[2026.03.17-00.06.47:376][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/a_medieval_tavern__0327012241_teD55C434C43707C0164DE52A915EEBE40.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Large_Medieval_Building/a_medieval_tavern__0327012241_texture_texture_0.uasset'
+[2026.03.17-00.06.47:379][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/apple_002] ([1] browsable assets)...
+[2026.03.17-00.06.47:379][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/apple_002]
+[2026.03.17-00.06.47:385][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/apple_002
+[2026.03.17-00.06.47:385][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/apple_002D36A58A54EB25B561B53CCAD79244642.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/apple_002.uasset'
+[2026.03.17-00.06.47:390][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_002] ([1] browsable assets)...
+[2026.03.17-00.06.47:390][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_002]
+[2026.03.17-00.06.47:394][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_002
+[2026.03.17-00.06.47:394][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/decorative_objects_0026C84A41A40C8A8CD234C86938D21AE05.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_002.uasset'
+[2026.03.17-00.06.47:396][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_BaseColor] ([1] browsable assets)...
+[2026.03.17-00.06.47:396][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_BaseColor]
+[2026.03.17-00.06.47:442][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_BaseColor
+[2026.03.17-00.06.47:442][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/decorative_objects_decorative_ob384417494C65D43B88BA6F9BA7BAFF01.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_BaseColor.uasset'
+[2026.03.17-00.06.47:445][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Emissive] ([1] browsable assets)...
+[2026.03.17-00.06.47:445][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Emissive]
+[2026.03.17-00.06.47:467][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Emissive
+[2026.03.17-00.06.47:467][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/decorative_objects_decorative_ob17191EDE4D5DDA582B0FEB8855E5E124.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Emissive.uasset'
+[2026.03.17-00.06.47:470][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Metallic] ([1] browsable assets)...
+[2026.03.17-00.06.47:470][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Metallic]
+[2026.03.17-00.06.47:484][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Metallic
+[2026.03.17-00.06.47:484][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/decorative_objects_decorative_ob43435A264DBB6019D0140CA861E598FD.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Metallic.uasset'
+[2026.03.17-00.06.47:486][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Normal] ([1] browsable assets)...
+[2026.03.17-00.06.47:486][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Normal]
+[2026.03.17-00.06.47:540][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Normal
+[2026.03.17-00.06.47:540][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/decorative_objects_decorative_obB61E7F5545E1A38E959113A9A15A4C0A.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Normal.uasset'
+[2026.03.17-00.06.47:542][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Roughness] ([1] browsable assets)...
+[2026.03.17-00.06.47:542][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Roughness]
+[2026.03.17-00.06.47:562][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Roughness
+[2026.03.17-00.06.47:562][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/decorative_objects_decorative_ob50D6B11B415D3569CD4F33B32136468E.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Roughness.uasset'
+[2026.03.17-00.06.47:563][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_mace/Embelish] ([1] browsable assets)...
+[2026.03.17-00.06.47:564][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_mace/Embelish]
+[2026.03.17-00.06.47:566][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_mace/Embelish
+[2026.03.17-00.06.47:566][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Embelish5C0534A949D5E0D7F367098331F148A0.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_mace/Embelish.uasset'
+[2026.03.17-00.06.47:567][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_mace/Embelish_Base_Color] ([1] browsable assets)...
+[2026.03.17-00.06.47:567][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_mace/Embelish_Base_Color]
+[2026.03.17-00.06.47:604][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_mace/Embelish_Base_Color
+[2026.03.17-00.06.47:604][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Embelish_Base_Color490CA26543CA91555BF315A9E64DEDC4.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_mace/Embelish_Base_Color.uasset'
+[2026.03.17-00.06.47:607][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_mace/Embelish_Metallic] ([1] browsable assets)...
+[2026.03.17-00.06.47:607][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_mace/Embelish_Metallic]
+[2026.03.17-00.06.47:645][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_mace/Embelish_Metallic
+[2026.03.17-00.06.47:645][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Embelish_MetallicA73311EC40A33F486830408F0673BE72.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_mace/Embelish_Metallic.uasset'
+[2026.03.17-00.06.47:648][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_mace/Embelish_Normal] ([1] browsable assets)...
+[2026.03.17-00.06.47:649][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_mace/Embelish_Normal]
+[2026.03.17-00.06.47:669][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_mace/Embelish_Normal
+[2026.03.17-00.06.47:669][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Embelish_NormalA17E1EE146E151DEF4507DA0475B4C7D.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_mace/Embelish_Normal.uasset'
+[2026.03.17-00.06.47:670][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Assets/fbx] ([1] browsable assets)...
+[2026.03.17-00.06.47:671][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Assets/fbx]
+[2026.03.17-00.06.47:682][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Assets/fbx
+[2026.03.17-00.06.47:682][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fbxB1E982C64B7F6B518EB6F7BD55E8754D.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Assets/fbx.uasset'
+[2026.03.17-00.06.47:683][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Assets/fbx_texture_0] ([1] browsable assets)...
+[2026.03.17-00.06.47:685][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Assets/fbx_texture_0]
+[2026.03.17-00.06.47:810][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Assets/fbx_texture_0
+[2026.03.17-00.06.47:810][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fbx_texture_0180A02DB4C32475478D27388392FCC94.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Assets/fbx_texture_0.uasset'
+[2026.03.17-00.06.47:813][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Assets/fbx_texture_1] ([1] browsable assets)...
+[2026.03.17-00.06.47:813][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Assets/fbx_texture_1]
+[2026.03.17-00.06.47:973][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Assets/fbx_texture_1
+[2026.03.17-00.06.47:973][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fbx_texture_1D7BC63D54ABBCF8EFCF064836717D2B5.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Assets/fbx_texture_1.uasset'
+[2026.03.17-00.06.47:976][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Assets/fbx_texture_2] ([1] browsable assets)...
+[2026.03.17-00.06.47:976][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Assets/fbx_texture_2]
+[2026.03.17-00.06.48:111][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Assets/fbx_texture_2
+[2026.03.17-00.06.48:111][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fbx_texture_22F74B9F340B403720F8F7DB8F36DA6AE.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Assets/fbx_texture_2.uasset'
+[2026.03.17-00.06.48:114][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_BaseColor] ([1] browsable assets)...
+[2026.03.17-00.06.48:114][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_BaseColor]
+[2026.03.17-00.06.48:152][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_BaseColor
+[2026.03.17-00.06.48:152][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fireLP_TT_checker_2048x2048_UV_G70C3CBA84E8EFE7D346D4FAB81169CCF.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_BaseColor.uasset'
+[2026.03.17-00.06.48:155][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_Metallic] ([1] browsable assets)...
+[2026.03.17-00.06.48:155][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_Metallic]
+[2026.03.17-00.06.48:162][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_Metallic
+[2026.03.17-00.06.48:163][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fireLP_TT_checker_2048x2048_UV_G85897E7B4F8901B0D6FA209206B1F580.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_Metallic.uasset'
+[2026.03.17-00.06.48:164][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_Normal] ([1] browsable assets)...
+[2026.03.17-00.06.48:164][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_Normal]
+[2026.03.17-00.06.48:210][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_Normal
+[2026.03.17-00.06.48:210][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fireLP_TT_checker_2048x2048_UV_GA0E732AD43270B1E6834B28DF544F2D8.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_Normal.uasset'
+[2026.03.17-00.06.48:212][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_Roughness] ([1] browsable assets)...
+[2026.03.17-00.06.48:212][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_Roughness]
+[2026.03.17-00.06.48:233][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_Roughness
+[2026.03.17-00.06.48:233][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fireLP_TT_checker_2048x2048_UV_G85ADE0934848B18BEE529196C5604080.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_Roughness.uasset'
+[2026.03.17-00.06.48:235][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/flame] ([1] browsable assets)...
+[2026.03.17-00.06.48:235][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/flame]
+[2026.03.17-00.06.48:239][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/flame
+[2026.03.17-00.06.48:239][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/flameC003E5894F1562CB0F891F9591AC6D80.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/flame.uasset'
+[2026.03.17-00.06.48:240][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/Flame_002] ([1] browsable assets)...
+[2026.03.17-00.06.48:240][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/Flame_002]
+[2026.03.17-00.06.48:242][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/Flame_002
+[2026.03.17-00.06.48:242][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Flame_002680324B94621F5BF9108EB9E6DD85181.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/Flame_002.uasset'
+[2026.03.17-00.06.48:244][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_002] ([1] browsable assets)...
+[2026.03.17-00.06.48:244][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_002]
+[2026.03.17-00.06.48:246][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_002
+[2026.03.17-00.06.48:246][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fruit_basket_002C5543C0645282CF9FA7131B14753638F.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_002.uasset'
+[2026.03.17-00.06.48:248][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_BaseColor] ([1] browsable assets)...
+[2026.03.17-00.06.48:248][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_BaseColor]
+[2026.03.17-00.06.48:304][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_BaseColor
+[2026.03.17-00.06.48:304][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fruit_basket_apple_BaseColor1ACCB0EF4F9D336F94A1ECAB5B5E85F6.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_BaseColor.uasset'
+[2026.03.17-00.06.48:306][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Emissive] ([1] browsable assets)...
+[2026.03.17-00.06.48:306][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Emissive]
+[2026.03.17-00.06.48:314][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Emissive
+[2026.03.17-00.06.48:314][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fruit_basket_apple_Emissive8C4BE0284DDB03E8ABB8DEA32121642B.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Emissive.uasset'
+[2026.03.17-00.06.48:316][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Metallic] ([1] browsable assets)...
+[2026.03.17-00.06.48:316][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Metallic]
+[2026.03.17-00.06.48:324][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Metallic
+[2026.03.17-00.06.48:324][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fruit_basket_apple_Metallic91A200B14898481AAC58F6846A273677.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Metallic.uasset'
+[2026.03.17-00.06.48:327][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Normal] ([1] browsable assets)...
+[2026.03.17-00.06.48:327][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Normal]
+[2026.03.17-00.06.48:382][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Normal
+[2026.03.17-00.06.48:382][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fruit_basket_apple_NormalDD8A4A554633A9FBA719EB9FB5897D69.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Normal.uasset'
+[2026.03.17-00.06.48:384][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Roughness] ([1] browsable assets)...
+[2026.03.17-00.06.48:384][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Roughness]
+[2026.03.17-00.06.48:405][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Roughness
+[2026.03.17-00.06.48:405][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fruit_basket_apple_RoughnessB48204014F2EC30B77EFFA95C23E5482.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Roughness.uasset'
+[2026.03.17-00.06.48:407][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_BaseColor] ([1] browsable assets)...
+[2026.03.17-00.06.48:407][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_BaseColor]
+[2026.03.17-00.06.48:450][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_BaseColor
+[2026.03.17-00.06.48:450][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fruit_basket_fruit_basket_BaseCo2311F06C42553BB79B7536895D417FDF.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_BaseColor.uasset'
+[2026.03.17-00.06.48:452][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Emissive] ([1] browsable assets)...
+[2026.03.17-00.06.48:452][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Emissive]
+[2026.03.17-00.06.48:460][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Emissive
+[2026.03.17-00.06.48:460][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fruit_basket_fruit_basket_Emissi2F3757D74650449D3A9F29BECC01CD8A.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Emissive.uasset'
+[2026.03.17-00.06.48:462][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Metallic] ([1] browsable assets)...
+[2026.03.17-00.06.48:462][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Metallic]
+[2026.03.17-00.06.48:469][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Metallic
+[2026.03.17-00.06.48:469][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fruit_basket_fruit_basket_Metall828BC85540B5AC539F9FBB8B4103E9FD.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Metallic.uasset'
+[2026.03.17-00.06.48:471][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Normal] ([1] browsable assets)...
+[2026.03.17-00.06.48:471][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Normal]
+[2026.03.17-00.06.48:515][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Normal
+[2026.03.17-00.06.48:515][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fruit_basket_fruit_basket_NormalC2C39FAA4805F7EABA25169935D843F7.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Normal.uasset'
+[2026.03.17-00.06.48:517][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Roughness] ([1] browsable assets)...
+[2026.03.17-00.06.48:517][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Roughness]
+[2026.03.17-00.06.48:535][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Roughness
+[2026.03.17-00.06.48:535][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/fruit_basket_fruit_basket_RoughnD319CFF24D145D6DDA9E43B6B6666CC8.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Roughness.uasset'
+[2026.03.17-00.06.48:537][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_mace/Head] ([1] browsable assets)...
+[2026.03.17-00.06.48:537][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_mace/Head]
+[2026.03.17-00.06.48:540][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_mace/Head
+[2026.03.17-00.06.48:540][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Head749C2DC34E3F945B2072378AC22ADBBC.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_mace/Head.uasset'
+[2026.03.17-00.06.48:542][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_mace/Head_Base_Color] ([1] browsable assets)...
+[2026.03.17-00.06.48:542][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_mace/Head_Base_Color]
+[2026.03.17-00.06.48:571][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_mace/Head_Base_Color
+[2026.03.17-00.06.48:571][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Head_Base_Color1711EAA946FE782F6E7F4D90A8650C66.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_mace/Head_Base_Color.uasset'
+[2026.03.17-00.06.48:573][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_mace/Head_Metallic] ([1] browsable assets)...
+[2026.03.17-00.06.48:573][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_mace/Head_Metallic]
+[2026.03.17-00.06.48:604][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_mace/Head_Metallic
+[2026.03.17-00.06.48:604][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Head_Metallic751D3EDA454F6CCD4BBE42B617F45289.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_mace/Head_Metallic.uasset'
+[2026.03.17-00.06.48:606][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_mace/Head_Normal] ([1] browsable assets)...
+[2026.03.17-00.06.48:607][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_mace/Head_Normal]
+[2026.03.17-00.06.48:636][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_mace/Head_Normal
+[2026.03.17-00.06.48:636][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Head_Normal29AD67CE40D19CAAC0B29CB236DAFF68.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_mace/Head_Normal.uasset'
+[2026.03.17-00.06.48:638][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_mace/Hilt] ([1] browsable assets)...
+[2026.03.17-00.06.48:638][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_mace/Hilt]
+[2026.03.17-00.06.48:640][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_mace/Hilt
+[2026.03.17-00.06.48:641][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/HiltE15052FD4A343160B1ED4B925A786665.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_mace/Hilt.uasset'
+[2026.03.17-00.06.48:642][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_mace/Hilt_Base_Color] ([1] browsable assets)...
+[2026.03.17-00.06.48:642][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_mace/Hilt_Base_Color]
+[2026.03.17-00.06.48:671][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_mace/Hilt_Base_Color
+[2026.03.17-00.06.48:671][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Hilt_Base_Color19CBC6284484D2CDA11668A2B417E1FD.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_mace/Hilt_Base_Color.uasset'
+[2026.03.17-00.06.48:673][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_mace/Hilt_Metallic] ([1] browsable assets)...
+[2026.03.17-00.06.48:673][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_mace/Hilt_Metallic]
+[2026.03.17-00.06.48:697][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_mace/Hilt_Metallic
+[2026.03.17-00.06.48:697][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Hilt_MetallicF4C289A04ED6B7842C04C2A7C9B043A9.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_mace/Hilt_Metallic.uasset'
+[2026.03.17-00.06.48:699][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_mace/Hilt_Normal] ([1] browsable assets)...
+[2026.03.17-00.06.48:699][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_mace/Hilt_Normal]
+[2026.03.17-00.06.48:718][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_mace/Hilt_Normal
+[2026.03.17-00.06.48:718][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Hilt_NormalC26021EF4E0A485D46FAF388C5A15DF6.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_mace/Hilt_Normal.uasset'
+[2026.03.17-00.06.48:720][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/internal_ground_ao_texture] ([1] browsable assets)...
+[2026.03.17-00.06.48:720][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/internal_ground_ao_texture]
+[2026.03.17-00.06.48:722][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/internal_ground_ao_texture
+[2026.03.17-00.06.48:722][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/internal_ground_ao_textureAADF62394DC31BC6B84D33A2DA08A2BE.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/internal_ground_ao_texture.uasset'
+[2026.03.17-00.06.48:724][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Assets/M_Base] ([1] browsable assets)...
+[2026.03.17-00.06.48:724][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Assets/M_Base]
+[2026.03.17-00.06.48:726][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Assets/M_Base
+[2026.03.17-00.06.48:726][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/M_Base007480D142F2637A35594DA9F9D9AF0F.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Assets/M_Base.uasset'
+[2026.03.17-00.06.48:727][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Assets/M_Hammer] ([1] browsable assets)...
+[2026.03.17-00.06.48:727][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Assets/M_Hammer]
+[2026.03.17-00.06.48:729][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Assets/M_Hammer
+[2026.03.17-00.06.48:729][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/M_HammerE72997894F402C6696CFE5B8BCD71A72.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Assets/M_Hammer.uasset'
+[2026.03.17-00.06.48:730][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Assets/M_Iron] ([1] browsable assets)...
+[2026.03.17-00.06.48:731][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Assets/M_Iron]
+[2026.03.17-00.06.48:733][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Assets/M_Iron
+[2026.03.17-00.06.48:733][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/M_IronE8733B0C4A37BAC5A14920B8CF9B550F.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Assets/M_Iron.uasset'
+[2026.03.17-00.06.48:735][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Assets/M_Tool1] ([1] browsable assets)...
+[2026.03.17-00.06.48:735][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Assets/M_Tool1]
+[2026.03.17-00.06.48:738][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Assets/M_Tool1
+[2026.03.17-00.06.48:738][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/M_Tool133E4191C4370F9F351DA1E8ECDB7123E.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Assets/M_Tool1.uasset'
+[2026.03.17-00.06.48:739][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Assets/M_Tool2] ([1] browsable assets)...
+[2026.03.17-00.06.48:739][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Assets/M_Tool2]
+[2026.03.17-00.06.48:741][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Assets/M_Tool2
+[2026.03.17-00.06.48:741][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/M_Tool24E2F1D1443888F0BB797629FE081D820.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Assets/M_Tool2.uasset'
+[2026.03.17-00.06.48:743][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Assets/M_Tool3] ([1] browsable assets)...
+[2026.03.17-00.06.48:743][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Assets/M_Tool3]
+[2026.03.17-00.06.48:745][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Assets/M_Tool3
+[2026.03.17-00.06.48:745][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/M_Tool3C7C3DC9644482D0C8E4E8EB3BF159122.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Assets/M_Tool3.uasset'
+[2026.03.17-00.06.48:747][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Assets/M_Tool4] ([1] browsable assets)...
+[2026.03.17-00.06.48:747][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Assets/M_Tool4]
+[2026.03.17-00.06.48:749][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Assets/M_Tool4
+[2026.03.17-00.06.48:750][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/M_Tool4C3537267411E03F35E98D09CA042C74E.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Assets/M_Tool4.uasset'
+[2026.03.17-00.06.48:751][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_mace/Mace] ([1] browsable assets)...
+[2026.03.17-00.06.48:751][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_mace/Mace]
+[2026.03.17-00.06.48:755][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_mace/Mace
+[2026.03.17-00.06.48:755][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Mace61BA469A4888EB181B482BB410566155.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_mace/Mace.uasset'
+[2026.03.17-00.06.48:756][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Tent/Material] ([1] browsable assets)...
+[2026.03.17-00.06.48:756][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Tent/Material]
+[2026.03.17-00.06.48:760][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Tent/Material
+[2026.03.17-00.06.48:760][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Material875B0DDE4973203E5119DAA3C18BA547.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Tent/Material.uasset'
+[2026.03.17-00.06.48:761][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Wooden_Medieval_Shield/Material_001] ([1] browsable assets)...
+[2026.03.17-00.06.48:762][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Wooden_Medieval_Shield/Material_001]
+[2026.03.17-00.06.48:764][734]LogSavePackage: Moving output files for package: /Game/Fab/Wooden_Medieval_Shield/Material_001
+[2026.03.17-00.06.48:764][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Material_001C6D7306A4AB25C98F13876B0E4048803.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Wooden_Medieval_Shield/Material_001.uasset'
+[2026.03.17-00.06.48:766][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Large_Medieval_Building/Material_001] ([1] browsable assets)...
+[2026.03.17-00.06.48:766][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Large_Medieval_Building/Material_001]
+[2026.03.17-00.06.48:769][734]LogSavePackage: Moving output files for package: /Game/Fab/Large_Medieval_Building/Material_001
+[2026.03.17-00.06.48:769][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/Material_00190EB735D46802313A4F36793674DDF63.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Large_Medieval_Building/Material_001.uasset'
+[2026.03.17-00.06.48:770][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/medi] ([1] browsable assets)...
+[2026.03.17-00.06.48:770][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/medi]
+[2026.03.17-00.06.48:821][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/medi
+[2026.03.17-00.06.48:821][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/mediDE444F834CA6D1232DC80C880E637F9E.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/medi.uasset'
+[2026.03.17-00.06.48:823][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_long_sword/medieval_long_sword] ([1] browsable assets)...
+[2026.03.17-00.06.48:823][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_long_sword/medieval_long_sword]
+[2026.03.17-00.06.48:828][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_long_sword/medieval_long_sword
+[2026.03.17-00.06.48:829][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/medieval_long_sword065185114BBC6C07D62479B5ACE02D16.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_long_sword/medieval_long_sword.uasset'
+[2026.03.17-00.06.48:830][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_long_sword/medieval_long_sword_texture_0] ([1] browsable assets)...
+[2026.03.17-00.06.48:830][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_long_sword/medieval_long_sword_texture_0]
+[2026.03.17-00.06.49:007][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_long_sword/medieval_long_sword_texture_0
+[2026.03.17-00.06.49:007][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/medieval_long_sword_texture_006CDD554446AE31FC38E45844D05987C.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_long_sword/medieval_long_sword_texture_0.uasset'
+[2026.03.17-00.06.49:009][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_long_sword/medieval_long_sword_texture_1] ([1] browsable assets)...
+[2026.03.17-00.06.49:009][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_long_sword/medieval_long_sword_texture_1]
+[2026.03.17-00.06.49:170][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_long_sword/medieval_long_sword_texture_1
+[2026.03.17-00.06.49:170][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/medieval_long_sword_texture_1C45414CC474B9CB35AEC35A69AE3FCCB.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_long_sword/medieval_long_sword_texture_1.uasset'
+[2026.03.17-00.06.49:174][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_long_sword/medieval_long_sword_texture_2] ([1] browsable assets)...
+[2026.03.17-00.06.49:174][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_long_sword/medieval_long_sword_texture_2]
+[2026.03.17-00.06.49:338][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_long_sword/medieval_long_sword_texture_2
+[2026.03.17-00.06.49:338][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/medieval_long_sword_texture_2DBE33EE54B179B248A7C5C8EC83EC655.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_long_sword/medieval_long_sword_texture_2.uasset'
+[2026.03.17-00.06.49:340][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_long_sword/medieval_long_sword_texture_3] ([1] browsable assets)...
+[2026.03.17-00.06.49:340][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_long_sword/medieval_long_sword_texture_3]
+[2026.03.17-00.06.49:434][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_long_sword/medieval_long_sword_texture_3
+[2026.03.17-00.06.49:434][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/medieval_long_sword_texture_35122470A4CCB8112918E82B20D2B4F3A.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_long_sword/medieval_long_sword_texture_3.uasset'
+[2026.03.17-00.06.49:437][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Tent/medieval_tent] ([1] browsable assets)...
+[2026.03.17-00.06.49:437][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Tent/medieval_tent]
+[2026.03.17-00.06.49:482][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Tent/medieval_tent
+[2026.03.17-00.06.49:482][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/medieval_tent33F4CD4B46753DF25A530DAC9A0E5031.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Tent/medieval_tent.uasset'
+[2026.03.17-00.06.49:486][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Tent/medieval_tent_texture_0] ([1] browsable assets)...
+[2026.03.17-00.06.49:486][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Tent/medieval_tent_texture_0]
+[2026.03.17-00.06.49:535][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Tent/medieval_tent_texture_0
+[2026.03.17-00.06.49:535][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/medieval_tent_texture_01EDFFBA84E9325FC88675781BC583DB9.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Tent/medieval_tent_texture_0.uasset'
+[2026.03.17-00.06.49:537][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Tent/medieval_tent_texture_1] ([1] browsable assets)...
+[2026.03.17-00.06.49:537][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Tent/medieval_tent_texture_1]
+[2026.03.17-00.06.49:575][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Tent/medieval_tent_texture_1
+[2026.03.17-00.06.49:575][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/medieval_tent_texture_1C06EBD7F483A416B1726368774BA1DB1.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Tent/medieval_tent_texture_1.uasset'
+[2026.03.17-00.06.49:576][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Tent/medieval_tent_texture_2] ([1] browsable assets)...
+[2026.03.17-00.06.49:576][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Tent/medieval_tent_texture_2]
+[2026.03.17-00.06.49:626][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Tent/medieval_tent_texture_2
+[2026.03.17-00.06.49:627][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/medieval_tent_texture_22A9B0AA2455E52BD5294AB9D2063D2DA.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Tent/medieval_tent_texture_2.uasset'
+[2026.03.17-00.06.49:628][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree/normal_leaves] ([1] browsable assets)...
+[2026.03.17-00.06.49:628][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree/normal_leaves]
+[2026.03.17-00.06.49:630][734]LogSavePackage: Moving output files for package: /Game/Fab/Tree/normal_leaves
+[2026.03.17-00.06.49:631][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/normal_leaves7ACF3CD147E8063C1B26BDAF76523515.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Tree/normal_leaves.uasset'
+[2026.03.17-00.06.49:632][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree/realistic_tree] ([1] browsable assets)...
+[2026.03.17-00.06.49:632][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree/realistic_tree]
+[2026.03.17-00.06.49:650][734]LogSavePackage: Moving output files for package: /Game/Fab/Tree/realistic_tree
+[2026.03.17-00.06.49:650][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/realistic_tree5C3390CF4CC3FFA311B16DB54C9B9CBC.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Tree/realistic_tree.uasset'
+[2026.03.17-00.06.49:652][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree/realistic_tree_texture_0] ([1] browsable assets)...
+[2026.03.17-00.06.49:652][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree/realistic_tree_texture_0]
+[2026.03.17-00.06.49:656][734]LogSavePackage: Moving output files for package: /Game/Fab/Tree/realistic_tree_texture_0
+[2026.03.17-00.06.49:656][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/realistic_tree_texture_0994EF2554C53C47E08273C9B0E340059.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Tree/realistic_tree_texture_0.uasset'
+[2026.03.17-00.06.49:657][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree/realistic_tree_texture_1] ([1] browsable assets)...
+[2026.03.17-00.06.49:657][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree/realistic_tree_texture_1]
+[2026.03.17-00.06.49:661][734]LogSavePackage: Moving output files for package: /Game/Fab/Tree/realistic_tree_texture_1
+[2026.03.17-00.06.49:661][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/realistic_tree_texture_14C5ABA754560303BEDD74E8CF7BB4577.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Tree/realistic_tree_texture_1.uasset'
+[2026.03.17-00.06.49:663][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree/realistic_tree_texture_2] ([1] browsable assets)...
+[2026.03.17-00.06.49:663][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree/realistic_tree_texture_2]
+[2026.03.17-00.06.49:667][734]LogSavePackage: Moving output files for package: /Game/Fab/Tree/realistic_tree_texture_2
+[2026.03.17-00.06.49:667][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/realistic_tree_texture_24F352ACC4A6987F4D46AD2BFAA6DCBE9.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Tree/realistic_tree_texture_2.uasset'
+[2026.03.17-00.06.49:668][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree/realistic_tree_texture_3] ([1] browsable assets)...
+[2026.03.17-00.06.49:668][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree/realistic_tree_texture_3]
+[2026.03.17-00.06.49:871][734]LogSavePackage: Moving output files for package: /Game/Fab/Tree/realistic_tree_texture_3
+[2026.03.17-00.06.49:871][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/realistic_tree_texture_3A12BDD9F4B1EDD00F796EF980CDF9DEC.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Tree/realistic_tree_texture_3.uasset'
+[2026.03.17-00.06.49:873][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree/realistic_tree_texture_4] ([1] browsable assets)...
+[2026.03.17-00.06.49:873][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree/realistic_tree_texture_4]
+[2026.03.17-00.06.50:054][734]LogSavePackage: Moving output files for package: /Game/Fab/Tree/realistic_tree_texture_4
+[2026.03.17-00.06.50:054][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/realistic_tree_texture_4C33E918045C1C98531FDEAA32D3B7034.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Tree/realistic_tree_texture_4.uasset'
+[2026.03.17-00.06.50:056][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree/realistic_tree_texture_5] ([1] browsable assets)...
+[2026.03.17-00.06.50:056][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree/realistic_tree_texture_5]
+[2026.03.17-00.06.50:252][734]LogSavePackage: Moving output files for package: /Game/Fab/Tree/realistic_tree_texture_5
+[2026.03.17-00.06.50:252][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/realistic_tree_texture_559EA47894067218A2C0955A46BFCB367.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Tree/realistic_tree_texture_5.uasset'
+[2026.03.17-00.06.50:253][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_long_sword/sword] ([1] browsable assets)...
+[2026.03.17-00.06.50:253][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_long_sword/sword]
+[2026.03.17-00.06.50:256][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_long_sword/sword
+[2026.03.17-00.06.50:256][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/swordF25711D344360BC0E5466A8C6D67F398.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_long_sword/sword.uasset'
+[2026.03.17-00.06.50:257][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_003] ([1] browsable assets)...
+[2026.03.17-00.06.50:257][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_003]
+[2026.03.17-00.06.50:261][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_003
+[2026.03.17-00.06.50:261][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/table_00360E8179B4FBA701D3990268930C5CE27.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/table_003.uasset'
+[2026.03.17-00.06.50:263][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_002] ([1] browsable assets)...
+[2026.03.17-00.06.50:263][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_002]
+[2026.03.17-00.06.50:265][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_002
+[2026.03.17-00.06.50:265][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/table_cloth_00232AD522B4DD48086569BDBAD68377C40.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_002.uasset'
+[2026.03.17-00.06.50:266][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_BaseColor] ([1] browsable assets)...
+[2026.03.17-00.06.50:267][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_BaseColor]
+[2026.03.17-00.06.50:334][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_BaseColor
+[2026.03.17-00.06.50:334][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/table_cloth_table_cloth_BaseColoF4D1024A47B254EA5437ECBB00C6F203.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_BaseColor.uasset'
+[2026.03.17-00.06.50:336][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Emissive] ([1] browsable assets)...
+[2026.03.17-00.06.50:336][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Emissive]
+[2026.03.17-00.06.50:343][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Emissive
+[2026.03.17-00.06.50:343][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/table_cloth_table_cloth_EmissiveCA12F09E49C9519A1FF1479B5AC59B5A.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Emissive.uasset'
+[2026.03.17-00.06.50:345][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Metallic] ([1] browsable assets)...
+[2026.03.17-00.06.50:345][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Metallic]
+[2026.03.17-00.06.50:351][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Metallic
+[2026.03.17-00.06.50:352][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/table_cloth_table_cloth_MetallicB1A3ED3345B0B63163F9F6920361F1C4.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Metallic.uasset'
+[2026.03.17-00.06.50:353][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Normal] ([1] browsable assets)...
+[2026.03.17-00.06.50:353][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Normal]
+[2026.03.17-00.06.50:403][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Normal
+[2026.03.17-00.06.50:403][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/table_cloth_table_cloth_Normal14903DB7466E73DB4286BFBA387E386F.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Normal.uasset'
+[2026.03.17-00.06.50:405][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Roughness] ([1] browsable assets)...
+[2026.03.17-00.06.50:405][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Roughness]
+[2026.03.17-00.06.50:424][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Roughness
+[2026.03.17-00.06.50:424][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/table_cloth_table_cloth_Roughnes1318A6134273028AE1BB56A5837DF492.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Roughness.uasset'
+[2026.03.17-00.06.50:426][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_BaseColor] ([1] browsable assets)...
+[2026.03.17-00.06.50:426][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_BaseColor]
+[2026.03.17-00.06.50:472][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_BaseColor
+[2026.03.17-00.06.50:472][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/table_table_BaseColor4CF3E75D49BE7387AB46D39D4E4E7747.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_BaseColor.uasset'
+[2026.03.17-00.06.50:474][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Emissive] ([1] browsable assets)...
+[2026.03.17-00.06.50:475][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Emissive]
+[2026.03.17-00.06.50:483][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Emissive
+[2026.03.17-00.06.50:483][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/table_table_Emissive2760E1A742EB483EEE2D88ABE2F1CA4E.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Emissive.uasset'
+[2026.03.17-00.06.50:485][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Metallic] ([1] browsable assets)...
+[2026.03.17-00.06.50:485][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Metallic]
+[2026.03.17-00.06.50:493][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Metallic
+[2026.03.17-00.06.50:493][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/table_table_MetallicC52F6C084B8DFF61F6144BB92CD6D0ED.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Metallic.uasset'
+[2026.03.17-00.06.50:495][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Normal] ([1] browsable assets)...
+[2026.03.17-00.06.50:495][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Normal]
+[2026.03.17-00.06.50:550][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Normal
+[2026.03.17-00.06.50:550][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/table_table_NormalDF55AE2A46297C1558C002BF5D990D82.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Normal.uasset'
+[2026.03.17-00.06.50:552][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Roughness] ([1] browsable assets)...
+[2026.03.17-00.06.50:552][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Roughness]
+[2026.03.17-00.06.50:569][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Roughness
+[2026.03.17-00.06.50:569][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/table_table_Roughness91BBB5C743D1C04388CB5BBBC7FD1128.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Roughness.uasset'
+[2026.03.17-00.06.50:571][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree/trunk] ([1] browsable assets)...
+[2026.03.17-00.06.50:571][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree/trunk]
+[2026.03.17-00.06.50:574][734]LogSavePackage: Moving output files for package: /Game/Fab/Tree/trunk
+[2026.03.17-00.06.50:574][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/trunkB3CB4A2C483A6F72B6E8D1B0B82E0ABF.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Tree/trunk.uasset'
+[2026.03.17-00.06.50:576][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/TT_checker_2048x2048_UV_GRID_002] ([1] browsable assets)...
+[2026.03.17-00.06.50:576][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Market__Table_and_Decorative_Objects/TT_checker_2048x2048_UV_GRID_002]
+[2026.03.17-00.06.50:579][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/TT_checker_2048x2048_UV_GRID_002
+[2026.03.17-00.06.50:579][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/TT_checker_2048x2048_UV_GRID_002ED4BCB444EEAD2E1E4DB38B6C753996F.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Market__Table_and_Decorative_Objects/TT_checker_2048x2048_UV_GRID_002.uasset'
+[2026.03.17-00.06.50:581][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench] ([1] browsable assets)...
+[2026.03.17-00.06.50:581][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench]
+[2026.03.17-00.06.50:583][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench
+[2026.03.17-00.06.50:584][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/wooden_benchD8141E45492CF70D553D7890A336F079.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench.uasset'
+[2026.03.17-00.06.50:585][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx] ([1] browsable assets)...
+[2026.03.17-00.06.50:586][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx]
+[2026.03.17-00.06.50:592][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx
+[2026.03.17-00.06.50:592][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/wooden_bench_fbx8C76FA004B555C571F49218A1E8DE80D.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx.uasset'
+[2026.03.17-00.06.50:594][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx_texture_0] ([1] browsable assets)...
+[2026.03.17-00.06.50:594][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx_texture_0]
+[2026.03.17-00.06.50:810][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx_texture_0
+[2026.03.17-00.06.50:811][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/wooden_bench_fbx_texture_06715C63F46CD8B1FC3BD2A876AED5C6F.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx_texture_0.uasset'
+[2026.03.17-00.06.50:813][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx_texture_1] ([1] browsable assets)...
+[2026.03.17-00.06.50:813][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx_texture_1]
+[2026.03.17-00.06.51:091][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx_texture_1
+[2026.03.17-00.06.51:092][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/wooden_bench_fbx_texture_11EA5E55746CC1CF500094E9BF31CB9F6.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx_texture_1.uasset'
+[2026.03.17-00.06.51:093][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx_texture_2] ([1] browsable assets)...
+[2026.03.17-00.06.51:093][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx_texture_2]
+[2026.03.17-00.06.51:169][734]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx_texture_2
+[2026.03.17-00.06.51:170][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/wooden_bench_fbx_texture_2D036797441021F2839D4A99E4741451B.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx_texture_2.uasset'
+[2026.03.17-00.06.51:171][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Wooden_Medieval_Shield/wooden_medieval_shield] ([1] browsable assets)...
+[2026.03.17-00.06.51:171][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Wooden_Medieval_Shield/wooden_medieval_shield]
+[2026.03.17-00.06.51:177][734]LogSavePackage: Moving output files for package: /Game/Fab/Wooden_Medieval_Shield/wooden_medieval_shield
+[2026.03.17-00.06.51:177][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/wooden_medieval_shieldE83E07A74BB5D875F8D1C1BAC9C19D52.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Wooden_Medieval_Shield/wooden_medieval_shield.uasset'
+[2026.03.17-00.06.51:180][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Wooden_Medieval_Shield/wooden_medieval_shield_texture_0] ([1] browsable assets)...
+[2026.03.17-00.06.51:180][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Wooden_Medieval_Shield/wooden_medieval_shield_texture_0]
+[2026.03.17-00.06.51:218][734]LogSavePackage: Moving output files for package: /Game/Fab/Wooden_Medieval_Shield/wooden_medieval_shield_texture_0
+[2026.03.17-00.06.51:218][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/wooden_medieval_shield_texture_0835666D24BE7C3A6C66D70971C39CEFE.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Wooden_Medieval_Shield/wooden_medieval_shield_texture_0.uasset'
+[2026.03.17-00.06.51:224][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Wooden_Medieval_Shield/wooden_medieval_shield_texture_1] ([1] browsable assets)...
+[2026.03.17-00.06.51:224][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Wooden_Medieval_Shield/wooden_medieval_shield_texture_1]
+[2026.03.17-00.06.51:246][734]LogSavePackage: Moving output files for package: /Game/Fab/Wooden_Medieval_Shield/wooden_medieval_shield_texture_1
+[2026.03.17-00.06.51:246][734]LogSavePackage: Moving '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Saved/wooden_medieval_shield_texture_147199A3544B7799B2DCF998A1181AB32.tmp' to '../../../../../../Users/ricok/Documents/clones/GEP clones/gep-25-26-unreal-template-mesphenn/GEP_Template/Content/Fab/Wooden_Medieval_Shield/wooden_medieval_shield_texture_1.uasset'
+[2026.03.17-00.06.51:319][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.58 sec (total: 6.92 sec)
+[2026.03.17-00.06.51:367][734]LogStall: Shutdown...
+[2026.03.17-00.06.51:368][734]LogStall: Shutdown complete.
+[2026.03.17-00.06.51:429][734]LogSlate: Window 'Message Log' being destroyed
+[2026.03.17-00.06.51:446][734]LogSlate: Window 'Fab' being destroyed
+[2026.03.17-00.06.51:452][734]LogSlate: Window 'GEP_Template - Unreal Editor' being destroyed
+[2026.03.17-00.06.52:112][734]LogContentValidation: Display: Starting to validate 95 assets
+[2026.03.17-00.06.52:112][734]LogContentValidation: Enabled validators:
+[2026.03.17-00.06.52:113][734]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-00.06.52:113][734]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-00.06.52:113][734]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-00.06.52:113][734]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-00.06.52:113][734]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-00.06.52:113][734]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-00.06.52:115][734]AssetCheck: /Game/Fab/Large_Medieval_Building/a_medieval_tavern__0327012241_texture Validating asset
+[2026.03.17-00.06.52:116][734]AssetCheck: /Game/Fab/Large_Medieval_Building/a_medieval_tavern__0327012241_texture_texture_0 Validating asset
+[2026.03.17-00.06.52:116][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/apple_002 Validating asset
+[2026.03.17-00.06.52:116][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_002 Validating asset
+[2026.03.17-00.06.52:116][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_BaseColor Validating asset
+[2026.03.17-00.06.52:116][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Emissive Validating asset
+[2026.03.17-00.06.52:116][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Metallic Validating asset
+[2026.03.17-00.06.52:117][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Normal Validating asset
+[2026.03.17-00.06.52:117][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/decorative_objects_decorative_objects_Roughness Validating asset
+[2026.03.17-00.06.52:117][734]AssetCheck: /Game/Fab/Medieval_mace/Embelish Validating asset
+[2026.03.17-00.06.52:117][734]AssetCheck: /Game/Fab/Medieval_mace/Embelish_Base_Color Validating asset
+[2026.03.17-00.06.52:117][734]AssetCheck: /Game/Fab/Medieval_mace/Embelish_Metallic Validating asset
+[2026.03.17-00.06.52:117][734]AssetCheck: /Game/Fab/Medieval_mace/Embelish_Normal Validating asset
+[2026.03.17-00.06.52:117][734]AssetCheck: /Game/Fab/Medieval_Assets/fbx Validating asset
+[2026.03.17-00.06.52:117][734]AssetCheck: /Game/Fab/Medieval_Assets/fbx_texture_0 Validating asset
+[2026.03.17-00.06.52:117][734]AssetCheck: /Game/Fab/Medieval_Assets/fbx_texture_1 Validating asset
+[2026.03.17-00.06.52:117][734]AssetCheck: /Game/Fab/Medieval_Assets/fbx_texture_2 Validating asset
+[2026.03.17-00.06.52:117][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_BaseColor Validating asset
+[2026.03.17-00.06.52:117][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_Metallic Validating asset
+[2026.03.17-00.06.52:118][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_Normal Validating asset
+[2026.03.17-00.06.52:118][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fireLP_TT_checker_2048x2048_UV_GRID_Roughness Validating asset
+[2026.03.17-00.06.52:118][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/flame Validating asset
+[2026.03.17-00.06.52:118][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/Flame_002 Validating asset
+[2026.03.17-00.06.52:118][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_002 Validating asset
+[2026.03.17-00.06.52:118][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_BaseColor Validating asset
+[2026.03.17-00.06.52:118][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Emissive Validating asset
+[2026.03.17-00.06.52:118][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Metallic Validating asset
+[2026.03.17-00.06.52:118][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Normal Validating asset
+[2026.03.17-00.06.52:119][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_apple_Roughness Validating asset
+[2026.03.17-00.06.52:119][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_BaseColor Validating asset
+[2026.03.17-00.06.52:119][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Emissive Validating asset
+[2026.03.17-00.06.52:119][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Metallic Validating asset
+[2026.03.17-00.06.52:119][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Normal Validating asset
+[2026.03.17-00.06.52:119][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/fruit_basket_fruit_basket_Roughness Validating asset
+[2026.03.17-00.06.52:119][734]AssetCheck: /Game/Fab/Medieval_mace/Head Validating asset
+[2026.03.17-00.06.52:120][734]AssetCheck: /Game/Fab/Medieval_mace/Head_Base_Color Validating asset
+[2026.03.17-00.06.52:120][734]AssetCheck: /Game/Fab/Medieval_mace/Head_Metallic Validating asset
+[2026.03.17-00.06.52:120][734]AssetCheck: /Game/Fab/Medieval_mace/Head_Normal Validating asset
+[2026.03.17-00.06.52:120][734]AssetCheck: /Game/Fab/Medieval_mace/Hilt Validating asset
+[2026.03.17-00.06.52:120][734]AssetCheck: /Game/Fab/Medieval_mace/Hilt_Base_Color Validating asset
+[2026.03.17-00.06.52:120][734]AssetCheck: /Game/Fab/Medieval_mace/Hilt_Metallic Validating asset
+[2026.03.17-00.06.52:120][734]AssetCheck: /Game/Fab/Medieval_mace/Hilt_Normal Validating asset
+[2026.03.17-00.06.52:120][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/internal_ground_ao_texture Validating asset
+[2026.03.17-00.06.52:121][734]AssetCheck: /Game/Fab/Medieval_Assets/M_Base Validating asset
+[2026.03.17-00.06.52:121][734]AssetCheck: /Game/Fab/Medieval_Assets/M_Hammer Validating asset
+[2026.03.17-00.06.52:121][734]AssetCheck: /Game/Fab/Medieval_Assets/M_Iron Validating asset
+[2026.03.17-00.06.52:121][734]AssetCheck: /Game/Fab/Medieval_Assets/M_Tool1 Validating asset
+[2026.03.17-00.06.52:121][734]AssetCheck: /Game/Fab/Medieval_Assets/M_Tool2 Validating asset
+[2026.03.17-00.06.52:121][734]AssetCheck: /Game/Fab/Medieval_Assets/M_Tool3 Validating asset
+[2026.03.17-00.06.52:121][734]AssetCheck: /Game/Fab/Medieval_Assets/M_Tool4 Validating asset
+[2026.03.17-00.06.52:121][734]AssetCheck: /Game/Fab/Medieval_mace/Mace Validating asset
+[2026.03.17-00.06.52:121][734]AssetCheck: /Game/Fab/Medieval_Tent/Material Validating asset
+[2026.03.17-00.06.52:122][734]AssetCheck: /Game/Fab/Wooden_Medieval_Shield/Material_001 Validating asset
+[2026.03.17-00.06.52:122][734]AssetCheck: /Game/Fab/Large_Medieval_Building/Material_001 Validating asset
+[2026.03.17-00.06.52:122][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/medi Validating asset
+[2026.03.17-00.06.52:122][734]AssetCheck: /Game/Fab/Medieval_long_sword/medieval_long_sword Validating asset
+[2026.03.17-00.06.52:122][734]AssetCheck: /Game/Fab/Medieval_long_sword/medieval_long_sword_texture_0 Validating asset
+[2026.03.17-00.06.52:122][734]AssetCheck: /Game/Fab/Medieval_long_sword/medieval_long_sword_texture_1 Validating asset
+[2026.03.17-00.06.52:123][734]AssetCheck: /Game/Fab/Medieval_long_sword/medieval_long_sword_texture_2 Validating asset
+[2026.03.17-00.06.52:123][734]AssetCheck: /Game/Fab/Medieval_long_sword/medieval_long_sword_texture_3 Validating asset
+[2026.03.17-00.06.52:123][734]AssetCheck: /Game/Fab/Medieval_Tent/medieval_tent Validating asset
+[2026.03.17-00.06.52:123][734]AssetCheck: /Game/Fab/Medieval_Tent/medieval_tent_texture_0 Validating asset
+[2026.03.17-00.06.52:123][734]AssetCheck: /Game/Fab/Medieval_Tent/medieval_tent_texture_1 Validating asset
+[2026.03.17-00.06.52:123][734]AssetCheck: /Game/Fab/Medieval_Tent/medieval_tent_texture_2 Validating asset
+[2026.03.17-00.06.52:123][734]AssetCheck: /Game/Fab/Tree/normal_leaves Validating asset
+[2026.03.17-00.06.52:123][734]AssetCheck: /Game/Fab/Tree/realistic_tree Validating asset
+[2026.03.17-00.06.52:123][734]AssetCheck: /Game/Fab/Tree/realistic_tree_texture_0 Validating asset
+[2026.03.17-00.06.52:124][734]AssetCheck: /Game/Fab/Tree/realistic_tree_texture_1 Validating asset
+[2026.03.17-00.06.52:124][734]AssetCheck: /Game/Fab/Tree/realistic_tree_texture_2 Validating asset
+[2026.03.17-00.06.52:124][734]AssetCheck: /Game/Fab/Tree/realistic_tree_texture_3 Validating asset
+[2026.03.17-00.06.52:124][734]AssetCheck: /Game/Fab/Tree/realistic_tree_texture_4 Validating asset
+[2026.03.17-00.06.52:124][734]AssetCheck: /Game/Fab/Tree/realistic_tree_texture_5 Validating asset
+[2026.03.17-00.06.52:124][734]AssetCheck: /Game/Fab/Medieval_long_sword/sword Validating asset
+[2026.03.17-00.06.52:124][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_003 Validating asset
+[2026.03.17-00.06.52:124][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_002 Validating asset
+[2026.03.17-00.06.52:124][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_BaseColor Validating asset
+[2026.03.17-00.06.52:124][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Emissive Validating asset
+[2026.03.17-00.06.52:125][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Metallic Validating asset
+[2026.03.17-00.06.52:125][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Normal Validating asset
+[2026.03.17-00.06.52:125][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_cloth_table_cloth_Roughness Validating asset
+[2026.03.17-00.06.52:125][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_BaseColor Validating asset
+[2026.03.17-00.06.52:125][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Emissive Validating asset
+[2026.03.17-00.06.52:125][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Metallic Validating asset
+[2026.03.17-00.06.52:125][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Normal Validating asset
+[2026.03.17-00.06.52:125][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/table_table_Roughness Validating asset
+[2026.03.17-00.06.52:126][734]AssetCheck: /Game/Fab/Tree/trunk Validating asset
+[2026.03.17-00.06.52:126][734]AssetCheck: /Game/Fab/Medieval_Market__Table_and_Decorative_Objects/TT_checker_2048x2048_UV_GRID_002 Validating asset
+[2026.03.17-00.06.52:126][734]AssetCheck: /Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench Validating asset
+[2026.03.17-00.06.52:126][734]AssetCheck: /Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx Validating asset
+[2026.03.17-00.06.52:126][734]AssetCheck: /Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx_texture_0 Validating asset
+[2026.03.17-00.06.52:126][734]AssetCheck: /Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx_texture_1 Validating asset
+[2026.03.17-00.06.52:126][734]AssetCheck: /Game/Fab/Medieval_Wooden_Bench_Low-poly_PBR/wooden_bench_fbx_texture_2 Validating asset
+[2026.03.17-00.06.52:126][734]AssetCheck: /Game/Fab/Wooden_Medieval_Shield/wooden_medieval_shield Validating asset
+[2026.03.17-00.06.52:126][734]AssetCheck: /Game/Fab/Wooden_Medieval_Shield/wooden_medieval_shield_texture_0 Validating asset
+[2026.03.17-00.06.52:126][734]AssetCheck: /Game/Fab/Wooden_Medieval_Shield/wooden_medieval_shield_texture_1 Validating asset
+[2026.03.17-00.06.52:131][734]Cmd: QUIT_EDITOR
+[2026.03.17-00.06.52:132][734]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.17-00.06.52:151][735]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.17-00.06.52:154][735]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.17-00.06.52:154][735]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.17-00.06.52:225][735]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.06.52:233][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.06.52:233][735]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2026.03.17-00.06.52:296][735]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.17-00.06.52:317][735]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.17-00.06.52:342][735]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.06.52:343][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.06.52:348][735]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.06.52:348][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.06.52:358][735]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.06.52:358][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.06.52:358][735]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.06.52:358][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.06.52:360][735]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.06.52:360][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.06.52:360][735]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.06.52:360][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.06.52:378][735]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.17-00.06.52:388][735]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.03.17-00.06.52:388][735]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.03.17-00.06.52:388][735]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.03.17-00.06.53:078][735]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.17-00.06.53:078][735]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.17-00.06.53:078][735]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2026.03.17-00.06.53:080][735]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.17-00.06.53:080][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.17-00.06.53:084][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.17-00.06.53:123][735]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.17-00.06.53:123][735]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.17-00.06.53:137][735]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.17-00.06.53:140][735]LogExit: Preparing to exit.
+[2026.03.17-00.06.53:282][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.03.17-00.06.54:463][735]LogEditorDataStorage: Deinitializing
+[2026.03.17-00.06.55:108][735]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.17-00.06.55:388][735]LogExit: Editor shut down
+[2026.03.17-00.06.55:431][735]LogExit: Transaction tracking system shut down
+[2026.03.17-00.06.57:319][735]LogExit: Object subsystem successfully closed.
+[2026.03.17-00.06.57:448][735]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.17-00.06.59:458][735]LogMemoryProfiler: Shutdown
+[2026.03.17-00.06.59:461][735]LogNetworkingProfiler: Shutdown
+[2026.03.17-00.06.59:461][735]LoadingProfiler: Shutdown
+[2026.03.17-00.06.59:461][735]LogTimingProfiler: Shutdown
+[2026.03.17-00.06.59:526][735]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/4e6e3c66-d007-4312-ba7d-559036b7f0ec.
+[2026.03.17-00.07.00:882][735]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.17-00.07.00:914][735]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.17-00.07.00:914][735]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7864058A-48A7-ADE9-359C-1A88D4921CC5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=3c0f047d4cdac9e042e2b68dfbe0e699%7C329387d0656f4d27b22863d36208efac%7Cbb0e43d5-22e8-4bdf-91de-c6966a0e392a&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.17-00.07.01:577][735]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.17-00.07.01:577][735]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.03.17-00.07.01:578][735]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.17-00.07.01:581][735]RenderDocPlugin: plugin has been unloaded.
+[2026.03.17-00.07.01:663][735]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.17-00.07.01:663][735]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.17-00.07.01:664][735]LogPakFile: Destroying PakPlatformFile
+[2026.03.17-00.07.02:668][735]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.17-00.07.02:785][735]LogExit: Exiting.
+[2026.03.17-00.07.02:835][735]Log file closed, 03/17/26 00:07:02
